@@ -1,0 +1,1415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd" version="1.1">
+  <meta lastmodifieddate="2023-05-26">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="c" label="c" />
+      <node id="l" label="l" />
+      <node id="i" label="i" />
+      <node id="m" label="m" />
+      <node id="a" label="a" />
+      <node id="t" label="t" />
+      <node id="e" label="e" />
+      <node id="r" label="r" />
+      <node id="s" label="s" />
+      <node id="k" label="k" />
+      <node id="climate" label="climate" />
+      <node id="risks" label="risks" />
+      <node id="n" label="n" />
+      <node id="settlements" label="settlements" />
+      <node id="cities" label="cities" />
+      <node id="u" label="u" />
+      <node id="b" label="b" />
+      <node id="urban" label="urban" />
+      <node id="risk" label="risk" />
+      <node id="areas" label="areas" />
+      <node id="al" label="al" />
+      <node id="h" label="h" />
+      <node id="g" label="g" />
+      <node id="high" label="high" />
+      <node id="et" label="et" />
+      <node id="o" label="o" />
+      <node id="section" label="section" />
+      <node id="global" label="global" />
+      <node id="also" label="also" />
+      <node id="d" label="d" />
+      <node id="including" label="including" />
+      <node id="p" label="p" />
+      <node id="chapter" label="chapter" />
+      <node id="sustainable" label="sustainable" />
+      <node id="f" label="f" />
+      <node id="infrastructure" label="infrastructure" />
+      <node id="x" label="x" />
+      <node id="example" label="example" />
+      <node id="y" label="y" />
+      <node id="key" label="key" />
+      <node id="v" label="v" />
+      <node id="vulnerability" label="vulnerability" />
+      <node id="confidence" label="confidence" />
+      <node id="people" label="people" />
+      <node id="urbanisation" label="urbanisation" />
+      <node id="heat" label="heat" />
+      <node id="impacts" label="impacts" />
+      <node id="human" label="human" />
+      <node id="box" label="box" />
+      <node id="migration" label="migration" />
+      <node id="adaptation" label="adaptation" />
+      <node id="increase" label="increase" />
+      <node id="development" label="development" />
+      <node id="change" label="change" />
+      <node id="evidence" label="evidence" />
+      <node id="w" label="w" />
+      <node id="water" label="water" />
+      <node id="social" label="social" />
+      <node id="associated" label="associated" />
+      <node id="local" label="local" />
+      <node id="environ" label="environ" />
+      <node id="pelling" label="pelling" />
+      <node id="town" label="town" />
+      <node id="usd" label="usd" />
+      <node id="farreaching" label="farreaching" />
+      <node id="z" label="z" />
+      <node id="citizenship" label="citizenship" />
+      <node id="himalayas" label="himalayas" />
+      <node id="wilkinson" label="wilkinson" />
+      <node id="productivity" label="productivity" />
+      <node id="defining" label="defining" />
+      <node id="zheng" label="zheng" />
+      <node id="together" label="together" />
+      <node id="net" label="net" />
+      <node id="continue" label="continue" />
+      <node id="means" label="means" />
+      <node id="lee" label="lee" />
+      <node id="variables" label="variables" />
+      <node id="similarly" label="similarly" />
+      <node id="sources" label="sources" />
+      <node id="liu" label="liu" />
+      <node id="lower" label="lower" />
+      <node id="compounded" label="compounded" />
+      <node id="relationships" label="relationships" />
+      <node id="aims" label="aims" />
+      <node id="integrating" label="integrating" />
+      <node id="summary" label="summary" />
+      <node id="land" label="land" />
+      <node id="policy" label="policy" />
+      <node id="action" label="action" />
+      <node id="resilience" label="resilience" />
+      <node id="populations" label="populations" />
+      <node id="likely" label="likely" />
+      <node id="planning" label="planning" />
+      <node id="medium" label="medium" />
+      <node id="health" label="health" />
+      <node id="million" label="million" />
+      <node id="see" label="see" />
+      <node id="systems" label="systems" />
+      <node id="population" label="population" />
+      <node id="management" label="management" />
+      <node id="flood" label="flood" />
+      <node id="less" label="less" />
+      <node id="international" label="international" />
+      <node id="exposure" label="exposure" />
+      <node id="energy" label="energy" />
+      <node id="economic" label="economic" />
+      <node id="agreement" label="agreement" />
+      <node id="governance" label="governance" />
+      <node id="coastal" label="coastal" />
+      <node id="particularly" label="particularly" />
+      <node id="future" label="future" />
+      <node id="environmental" label="environmental" />
+      <node id="housing" label="housing" />
+      <node id="governments" label="governments" />
+      <node id="regions" label="regions" />
+      <node id="city" label="city" />
+      <node id="services" label="services" />
+      <node id="landslides" label="landslides" />
+      <node id="may" label="may" />
+      <node id="green" label="green" />
+      <node id="eg" label="eg" />
+      <node id="increased" label="increased" />
+      <node id="nations" label="nations" />
+      <node id="flooding" label="flooding" />
+      <node id="j" label="j" />
+      <node id="projected" label="projected" />
+      <node id="capacity" label="capacity" />
+      <node id="air" label="air" />
+      <node id="events" label="events" />
+      <node id="communities" label="communities" />
+      <node id="public" label="public" />
+      <node id="asia" label="asia" />
+      <node id="mitigation" label="mitigation" />
+      <node id="use" label="use" />
+      <node id="impact" label="impact" />
+      <node id="report" label="report" />
+      <node id="temperature" label="temperature" />
+      <node id="assessment" label="assessment" />
+      <node id="changes" label="changes" />
+      <node id="temperatures" label="temperatures" />
+      <node id="limited" label="limited" />
+      <node id="sdgs" label="sdgs" />
+      <node id="number" label="number" />
+      <node id="due" label="due" />
+      <node id="within" label="within" />
+      <node id="reduction" label="reduction" />
+      <node id="complex" label="complex" />
+      <node id="multiple" label="multiple" />
+      <node id="pm" label="pm" />
+      <node id="rural" label="rural" />
+      <node id="community" label="community" />
+      <node id="informal" label="informal" />
+    </nodes>
+    <edges>
+      <edge source="climate" target="risks" id="0" weight="0.9968990683555603" />
+      <edge source="climate" target="settlements" id="1" weight="0.996842622756958" />
+      <edge source="climate" target="cities" id="2" weight="0.996579647064209" />
+      <edge source="climate" target="urban" id="3" weight="0.9965649247169495" />
+      <edge source="climate" target="risk" id="4" weight="0.9961893558502197" />
+      <edge source="climate" target="areas" id="5" weight="0.9961680173873901" />
+      <edge source="climate" target="al" id="6" weight="0.996035635471344" />
+      <edge source="climate" target="high" id="7" weight="0.9959287047386169" />
+      <edge source="climate" target="et" id="8" weight="0.9957037568092346" />
+      <edge source="climate" target="section" id="9" weight="0.9955710768699646" />
+      <edge source="climate" target="global" id="10" weight="0.9955556392669678" />
+      <edge source="climate" target="also" id="11" weight="0.9954347014427185" />
+      <edge source="climate" target="including" id="12" weight="0.9954314231872559" />
+      <edge source="climate" target="chapter" id="13" weight="0.995190441608429" />
+      <edge source="climate" target="sustainable" id="14" weight="0.9951204657554626" />
+      <edge source="climate" target="infrastructure" id="15" weight="0.9950919151306152" />
+      <edge source="climate" target="example" id="16" weight="0.9948340058326721" />
+      <edge source="climate" target="key" id="17" weight="0.9946797490119934" />
+      <edge source="climate" target="vulnerability" id="18" weight="0.9946338534355164" />
+      <edge source="climate" target="confidence" id="19" weight="0.9946215748786926" />
+      <edge source="climate" target="people" id="20" weight="0.9945067763328552" />
+      <edge source="climate" target="urbanisation" id="21" weight="0.9944409728050232" />
+      <edge source="climate" target="heat" id="22" weight="0.9943253397941589" />
+      <edge source="climate" target="impacts" id="23" weight="0.994257390499115" />
+      <edge source="climate" target="human" id="24" weight="0.9942482709884644" />
+      <edge source="risks" target="urban" id="25" weight="0.9981945157051086" />
+      <edge source="risks" target="al" id="26" weight="0.9980681538581848" />
+      <edge source="risks" target="settlements" id="27" weight="0.9980652928352356" />
+      <edge source="risks" target="areas" id="28" weight="0.9975860118865967" />
+      <edge source="risks" target="et" id="29" weight="0.997492253780365" />
+      <edge source="risks" target="cities" id="30" weight="0.9974492192268372" />
+      <edge source="risks" target="global" id="31" weight="0.9974261522293091" />
+      <edge source="risks" target="also" id="32" weight="0.9973592162132263" />
+      <edge source="risks" target="high" id="33" weight="0.9972909688949585" />
+      <edge source="risks" target="section" id="34" weight="0.9970108866691589" />
+      <edge source="risks" target="including" id="35" weight="0.9969448447227478" />
+      <edge source="risks" target="climate" id="36" weight="0.9968990683555603" />
+      <edge source="risks" target="risk" id="37" weight="0.9967237710952759" />
+      <edge source="risks" target="confidence" id="38" weight="0.9967064261436462" />
+      <edge source="risks" target="vulnerability" id="39" weight="0.9964234828948975" />
+      <edge source="risks" target="infrastructure" id="40" weight="0.9962605834007263" />
+      <edge source="risks" target="urbanisation" id="41" weight="0.9961826801300049" />
+      <edge source="risks" target="box" id="42" weight="0.9959786534309387" />
+      <edge source="risks" target="key" id="43" weight="0.9959281086921692" />
+      <edge source="risks" target="heat" id="44" weight="0.9958488345146179" />
+      <edge source="risks" target="chapter" id="45" weight="0.9957137703895569" />
+      <edge source="risks" target="example" id="46" weight="0.9957033395767212" />
+      <edge source="risks" target="sustainable" id="47" weight="0.995554506778717" />
+      <edge source="risks" target="impacts" id="48" weight="0.9953261613845825" />
+      <edge source="risks" target="people" id="49" weight="0.995177149772644" />
+      <edge source="settlements" target="urban" id="50" weight="0.9982527494430542" />
+      <edge source="settlements" target="risks" id="51" weight="0.9980653524398804" />
+      <edge source="settlements" target="al" id="52" weight="0.9979190230369568" />
+      <edge source="settlements" target="areas" id="53" weight="0.9978037476539612" />
+      <edge source="settlements" target="cities" id="54" weight="0.9976308345794678" />
+      <edge source="settlements" target="et" id="55" weight="0.9975206851959229" />
+      <edge source="settlements" target="also" id="56" weight="0.9974962472915649" />
+      <edge source="settlements" target="infrastructure" id="57" weight="0.997296929359436" />
+      <edge source="settlements" target="including" id="58" weight="0.9971352219581604" />
+      <edge source="settlements" target="climate" id="59" weight="0.9968422651290894" />
+      <edge source="settlements" target="heat" id="60" weight="0.9968349933624268" />
+      <edge source="settlements" target="chapter" id="61" weight="0.9968158602714539" />
+      <edge source="settlements" target="section" id="62" weight="0.9967835545539856" />
+      <edge source="settlements" target="high" id="63" weight="0.9967828989028931" />
+      <edge source="settlements" target="risk" id="64" weight="0.9966529011726379" />
+      <edge source="settlements" target="global" id="65" weight="0.9966489672660828" />
+      <edge source="settlements" target="urbanisation" id="66" weight="0.9965555667877197" />
+      <edge source="settlements" target="box" id="67" weight="0.9963843822479248" />
+      <edge source="settlements" target="example" id="68" weight="0.9962202310562134" />
+      <edge source="settlements" target="key" id="69" weight="0.9961972832679749" />
+      <edge source="settlements" target="people" id="70" weight="0.9961757063865662" />
+      <edge source="settlements" target="impacts" id="71" weight="0.996117353439331" />
+      <edge source="settlements" target="vulnerability" id="72" weight="0.9958875179290771" />
+      <edge source="settlements" target="migration" id="73" weight="0.9957367181777954" />
+      <edge source="settlements" target="confidence" id="74" weight="0.995481014251709" />
+      <edge source="cities" target="urban" id="75" weight="0.9979785680770874" />
+      <edge source="cities" target="areas" id="76" weight="0.9977893233299255" />
+      <edge source="cities" target="settlements" id="77" weight="0.9976308345794678" />
+      <edge source="cities" target="al" id="78" weight="0.9975783824920654" />
+      <edge source="cities" target="risks" id="79" weight="0.9974491596221924" />
+      <edge source="cities" target="also" id="80" weight="0.9974271655082703" />
+      <edge source="cities" target="global" id="81" weight="0.9972313642501831" />
+      <edge source="cities" target="section" id="82" weight="0.9971820116043091" />
+      <edge source="cities" target="et" id="83" weight="0.9969244003295898" />
+      <edge source="cities" target="urbanisation" id="84" weight="0.9965972900390625" />
+      <edge source="cities" target="including" id="85" weight="0.9965963363647461" />
+      <edge source="cities" target="infrastructure" id="86" weight="0.9965927004814148" />
+      <edge source="cities" target="climate" id="87" weight="0.9965795278549194" />
+      <edge source="cities" target="risk" id="88" weight="0.9963411092758179" />
+      <edge source="cities" target="high" id="89" weight="0.9963401556015015" />
+      <edge source="cities" target="vulnerability" id="90" weight="0.9962320327758789" />
+      <edge source="cities" target="chapter" id="91" weight="0.9961409568786621" />
+      <edge source="cities" target="heat" id="92" weight="0.9959028363227844" />
+      <edge source="cities" target="impacts" id="93" weight="0.9958398342132568" />
+      <edge source="cities" target="evidence" id="94" weight="0.9957419633865356" />
+      <edge source="cities" target="migration" id="95" weight="0.9957083463668823" />
+      <edge source="cities" target="key" id="96" weight="0.9956211447715759" />
+      <edge source="cities" target="box" id="97" weight="0.9956037402153015" />
+      <edge source="cities" target="example" id="98" weight="0.9954491853713989" />
+      <edge source="cities" target="people" id="99" weight="0.9954374432563782" />
+      <edge source="urban" target="settlements" id="100" weight="0.998252809047699" />
+      <edge source="urban" target="risks" id="101" weight="0.9981943964958191" />
+      <edge source="urban" target="al" id="102" weight="0.9980388879776001" />
+      <edge source="urban" target="also" id="103" weight="0.9980311989784241" />
+      <edge source="urban" target="cities" id="104" weight="0.9979788661003113" />
+      <edge source="urban" target="et" id="105" weight="0.997909665107727" />
+      <edge source="urban" target="areas" id="106" weight="0.9978927373886108" />
+      <edge source="urban" target="high" id="107" weight="0.9977781176567078" />
+      <edge source="urban" target="section" id="108" weight="0.9972364902496338" />
+      <edge source="urban" target="including" id="109" weight="0.9971278309822083" />
+      <edge source="urban" target="risk" id="110" weight="0.9971042275428772" />
+      <edge source="urban" target="global" id="111" weight="0.9969115853309631" />
+      <edge source="urban" target="infrastructure" id="112" weight="0.996758759021759" />
+      <edge source="urban" target="confidence" id="113" weight="0.9967036247253418" />
+      <edge source="urban" target="vulnerability" id="114" weight="0.9966338276863098" />
+      <edge source="urban" target="chapter" id="115" weight="0.9966217279434204" />
+      <edge source="urban" target="climate" id="116" weight="0.9965648651123047" />
+      <edge source="urban" target="urbanisation" id="117" weight="0.9965323209762573" />
+      <edge source="urban" target="heat" id="118" weight="0.9965036511421204" />
+      <edge source="urban" target="people" id="119" weight="0.9962824583053589" />
+      <edge source="urban" target="box" id="120" weight="0.9960420727729797" />
+      <edge source="urban" target="example" id="121" weight="0.9958848357200623" />
+      <edge source="urban" target="migration" id="122" weight="0.9958729147911072" />
+      <edge source="urban" target="impacts" id="123" weight="0.9957862496376038" />
+      <edge source="urban" target="key" id="124" weight="0.9957504272460938" />
+      <edge source="risk" target="urban" id="125" weight="0.9971042275428772" />
+      <edge source="risk" target="risks" id="126" weight="0.9967237710952759" />
+      <edge source="risk" target="settlements" id="127" weight="0.9966529607772827" />
+      <edge source="risk" target="al" id="128" weight="0.9966480135917664" />
+      <edge source="risk" target="high" id="129" weight="0.9963714480400085" />
+      <edge source="risk" target="cities" id="130" weight="0.9963411092758179" />
+      <edge source="risk" target="et" id="131" weight="0.9963195323944092" />
+      <edge source="risk" target="climate" id="132" weight="0.9961894154548645" />
+      <edge source="risk" target="including" id="133" weight="0.9960519075393677" />
+      <edge source="risk" target="also" id="134" weight="0.9959138035774231" />
+      <edge source="risk" target="key" id="135" weight="0.9958068132400513" />
+      <edge source="risk" target="urbanisation" id="136" weight="0.9957224130630493" />
+      <edge source="risk" target="heat" id="137" weight="0.9957193732261658" />
+      <edge source="risk" target="section" id="138" weight="0.9957089424133301" />
+      <edge source="risk" target="areas" id="139" weight="0.995651364326477" />
+      <edge source="risk" target="confidence" id="140" weight="0.9956309199333191" />
+      <edge source="risk" target="example" id="141" weight="0.9956070780754089" />
+      <edge source="risk" target="global" id="142" weight="0.9955297112464905" />
+      <edge source="risk" target="box" id="143" weight="0.995145320892334" />
+      <edge source="risk" target="evidence" id="144" weight="0.9950607419013977" />
+      <edge source="risk" target="vulnerability" id="145" weight="0.9949029684066772" />
+      <edge source="risk" target="infrastructure" id="146" weight="0.9945968389511108" />
+      <edge source="risk" target="chapter" id="147" weight="0.9945081472396851" />
+      <edge source="risk" target="people" id="148" weight="0.9943504929542542" />
+      <edge source="risk" target="increase" id="149" weight="0.9941843152046204" />
+      <edge source="areas" target="urban" id="150" weight="0.9978927373886108" />
+      <edge source="areas" target="settlements" id="151" weight="0.9978037476539612" />
+      <edge source="areas" target="cities" id="152" weight="0.9977893233299255" />
+      <edge source="areas" target="risks" id="153" weight="0.9975860714912415" />
+      <edge source="areas" target="al" id="154" weight="0.99748295545578" />
+      <edge source="areas" target="also" id="155" weight="0.9974596500396729" />
+      <edge source="areas" target="et" id="156" weight="0.9971351623535156" />
+      <edge source="areas" target="global" id="157" weight="0.996997594833374" />
+      <edge source="areas" target="including" id="158" weight="0.9968778491020203" />
+      <edge source="areas" target="high" id="159" weight="0.9967926740646362" />
+      <edge source="areas" target="section" id="160" weight="0.9965245127677917" />
+      <edge source="areas" target="urbanisation" id="161" weight="0.9965155124664307" />
+      <edge source="areas" target="impacts" id="162" weight="0.9962917566299438" />
+      <edge source="areas" target="infrastructure" id="163" weight="0.9962429404258728" />
+      <edge source="areas" target="climate" id="164" weight="0.9961679577827454" />
+      <edge source="areas" target="heat" id="165" weight="0.9960175156593323" />
+      <edge source="areas" target="people" id="166" weight="0.9959567189216614" />
+      <edge source="areas" target="confidence" id="167" weight="0.9958406090736389" />
+      <edge source="areas" target="vulnerability" id="168" weight="0.9958378076553345" />
+      <edge source="areas" target="example" id="169" weight="0.9957433938980103" />
+      <edge source="areas" target="chapter" id="170" weight="0.995672345161438" />
+      <edge source="areas" target="migration" id="171" weight="0.9956637024879456" />
+      <edge source="areas" target="risk" id="172" weight="0.9956513047218323" />
+      <edge source="areas" target="sustainable" id="173" weight="0.9955183267593384" />
+      <edge source="areas" target="evidence" id="174" weight="0.9953832030296326" />
+      <edge source="high" target="urban" id="175" weight="0.9977781176567078" />
+      <edge source="high" target="risks" id="176" weight="0.9972911477088928" />
+      <edge source="high" target="al" id="177" weight="0.9970777034759521" />
+      <edge source="high" target="areas" id="178" weight="0.9967927932739258" />
+      <edge source="high" target="settlements" id="179" weight="0.9967830181121826" />
+      <edge source="high" target="also" id="180" weight="0.9964126348495483" />
+      <edge source="high" target="including" id="181" weight="0.9963974952697754" />
+      <edge source="high" target="global" id="182" weight="0.9963808059692383" />
+      <edge source="high" target="risk" id="183" weight="0.9963714480400085" />
+      <edge source="high" target="cities" id="184" weight="0.9963399767875671" />
+      <edge source="high" target="confidence" id="185" weight="0.996261477470398" />
+      <edge source="high" target="et" id="186" weight="0.9961449503898621" />
+      <edge source="high" target="climate" id="187" weight="0.9959287643432617" />
+      <edge source="high" target="vulnerability" id="188" weight="0.9958274960517883" />
+      <edge source="high" target="heat" id="189" weight="0.9956629872322083" />
+      <edge source="high" target="people" id="190" weight="0.9954975247383118" />
+      <edge source="high" target="section" id="191" weight="0.9952881336212158" />
+      <edge source="high" target="infrastructure" id="192" weight="0.9952099919319153" />
+      <edge source="high" target="urbanisation" id="193" weight="0.9952026009559631" />
+      <edge source="high" target="example" id="194" weight="0.9950795769691467" />
+      <edge source="high" target="evidence" id="195" weight="0.9949806332588196" />
+      <edge source="high" target="box" id="196" weight="0.9949558973312378" />
+      <edge source="high" target="chapter" id="197" weight="0.9947477579116821" />
+      <edge source="high" target="social" id="198" weight="0.9946935176849365" />
+      <edge source="high" target="increase" id="199" weight="0.9946382641792297" />
+      <edge source="global" target="al" id="200" weight="0.9976803064346313" />
+      <edge source="global" target="risks" id="201" weight="0.9974262118339539" />
+      <edge source="global" target="cities" id="202" weight="0.9972315430641174" />
+      <edge source="global" target="areas" id="203" weight="0.9969976544380188" />
+      <edge source="global" target="also" id="204" weight="0.9969335794448853" />
+      <edge source="global" target="urban" id="205" weight="0.9969115257263184" />
+      <edge source="global" target="et" id="206" weight="0.9969065189361572" />
+      <edge source="global" target="settlements" id="207" weight="0.9966490268707275" />
+      <edge source="global" target="high" id="208" weight="0.9963807463645935" />
+      <edge source="global" target="people" id="209" weight="0.9963287711143494" />
+      <edge source="global" target="including" id="210" weight="0.9962940812110901" />
+      <edge source="global" target="infrastructure" id="211" weight="0.9962744116783142" />
+      <edge source="global" target="urbanisation" id="212" weight="0.9957881569862366" />
+      <edge source="global" target="vulnerability" id="213" weight="0.995705246925354" />
+      <edge source="global" target="confidence" id="214" weight="0.9956986308097839" />
+      <edge source="global" target="section" id="215" weight="0.9955915808677673" />
+      <edge source="global" target="climate" id="216" weight="0.9955555200576782" />
+      <edge source="global" target="risk" id="217" weight="0.9955297112464905" />
+      <edge source="global" target="heat" id="218" weight="0.9954405426979065" />
+      <edge source="global" target="example" id="219" weight="0.9952711462974548" />
+      <edge source="global" target="migration" id="220" weight="0.9952524900436401" />
+      <edge source="global" target="increase" id="221" weight="0.9949858784675598" />
+      <edge source="global" target="box" id="222" weight="0.9949749112129211" />
+      <edge source="global" target="sustainable" id="223" weight="0.9947929978370667" />
+      <edge source="global" target="associated" id="224" weight="0.9947227835655212" />
+      <edge source="including" target="al" id="225" weight="0.9973388910293579" />
+      <edge source="including" target="settlements" id="226" weight="0.99713534116745" />
+      <edge source="including" target="urban" id="227" weight="0.9971277713775635" />
+      <edge source="including" target="risks" id="228" weight="0.9969450235366821" />
+      <edge source="including" target="areas" id="229" weight="0.9968780279159546" />
+      <edge source="including" target="cities" id="230" weight="0.9965963959693909" />
+      <edge source="including" target="high" id="231" weight="0.9963976740837097" />
+      <edge source="including" target="et" id="232" weight="0.9963873028755188" />
+      <edge source="including" target="global" id="233" weight="0.9962941408157349" />
+      <edge source="including" target="also" id="234" weight="0.9962835907936096" />
+      <edge source="including" target="risk" id="235" weight="0.9960520267486572" />
+      <edge source="including" target="vulnerability" id="236" weight="0.9959732890129089" />
+      <edge source="including" target="urbanisation" id="237" weight="0.9959602355957031" />
+      <edge source="including" target="section" id="238" weight="0.9959137439727783" />
+      <edge source="including" target="climate" id="239" weight="0.9954314231872559" />
+      <edge source="including" target="infrastructure" id="240" weight="0.9954000115394592" />
+      <edge source="including" target="people" id="241" weight="0.9953700304031372" />
+      <edge source="including" target="confidence" id="242" weight="0.9953170418739319" />
+      <edge source="including" target="example" id="243" weight="0.9951757788658142" />
+      <edge source="including" target="key" id="244" weight="0.9949679970741272" />
+      <edge source="including" target="increase" id="245" weight="0.9949142336845398" />
+      <edge source="including" target="sustainable" id="246" weight="0.9947958588600159" />
+      <edge source="including" target="chapter" id="247" weight="0.9947527050971985" />
+      <edge source="including" target="heat" id="248" weight="0.9946960210800171" />
+      <edge source="including" target="box" id="249" weight="0.9944562315940857" />
+      <edge source="chapter" target="settlements" id="250" weight="0.9968158006668091" />
+      <edge source="chapter" target="urban" id="251" weight="0.9966217279434204" />
+      <edge source="chapter" target="cities" id="252" weight="0.9961408972740173" />
+      <edge source="chapter" target="also" id="253" weight="0.9957307577133179" />
+      <edge source="chapter" target="risks" id="254" weight="0.9957137107849121" />
+      <edge source="chapter" target="areas" id="255" weight="0.9956722855567932" />
+      <edge source="chapter" target="et" id="256" weight="0.9952430129051208" />
+      <edge source="chapter" target="al" id="257" weight="0.9952182173728943" />
+      <edge source="chapter" target="example" id="258" weight="0.9952127933502197" />
+      <edge source="chapter" target="climate" id="259" weight="0.9951902031898499" />
+      <edge source="chapter" target="heat" id="260" weight="0.9951542019844055" />
+      <edge source="chapter" target="vulnerability" id="261" weight="0.9950113296508789" />
+      <edge source="chapter" target="section" id="262" weight="0.9949387311935425" />
+      <edge source="chapter" target="infrastructure" id="263" weight="0.9947620630264282" />
+      <edge source="chapter" target="including" id="264" weight="0.9947526454925537" />
+      <edge source="chapter" target="high" id="265" weight="0.9947477579116821" />
+      <edge source="chapter" target="key" id="266" weight="0.9946840405464172" />
+      <edge source="chapter" target="risk" id="267" weight="0.9945081472396851" />
+      <edge source="chapter" target="global" id="268" weight="0.9945073127746582" />
+      <edge source="chapter" target="impacts" id="269" weight="0.9944419264793396" />
+      <edge source="chapter" target="urbanisation" id="270" weight="0.9940432906150818" />
+      <edge source="chapter" target="confidence" id="271" weight="0.9939609169960022" />
+      <edge source="chapter" target="people" id="272" weight="0.9936578869819641" />
+      <edge source="chapter" target="box" id="273" weight="0.9934401512145996" />
+      <edge source="chapter" target="land" id="274" weight="0.9934056401252747" />
+      <edge source="sustainable" target="risks" id="275" weight="0.9955543279647827" />
+      <edge source="sustainable" target="urban" id="276" weight="0.9955230951309204" />
+      <edge source="sustainable" target="areas" id="277" weight="0.9955183267593384" />
+      <edge source="sustainable" target="al" id="278" weight="0.9951592683792114" />
+      <edge source="sustainable" target="climate" id="279" weight="0.9951203465461731" />
+      <edge source="sustainable" target="also" id="280" weight="0.9950841069221497" />
+      <edge source="sustainable" target="cities" id="281" weight="0.995083749294281" />
+      <edge source="sustainable" target="settlements" id="282" weight="0.9950641989707947" />
+      <edge source="sustainable" target="including" id="283" weight="0.9947956204414368" />
+      <edge source="sustainable" target="global" id="284" weight="0.9947928786277771" />
+      <edge source="sustainable" target="et" id="285" weight="0.9946112036705017" />
+      <edge source="sustainable" target="high" id="286" weight="0.9945079684257507" />
+      <edge source="sustainable" target="people" id="287" weight="0.9944330453872681" />
+      <edge source="sustainable" target="vulnerability" id="288" weight="0.9941166043281555" />
+      <edge source="sustainable" target="urbanisation" id="289" weight="0.9940451979637146" />
+      <edge source="sustainable" target="heat" id="290" weight="0.9940394759178162" />
+      <edge source="sustainable" target="section" id="291" weight="0.9939998388290405" />
+      <edge source="sustainable" target="risk" id="292" weight="0.9939422011375427" />
+      <edge source="sustainable" target="example" id="293" weight="0.9934938549995422" />
+      <edge source="sustainable" target="confidence" id="294" weight="0.9934353828430176" />
+      <edge source="sustainable" target="chapter" id="295" weight="0.9933515787124634" />
+      <edge source="sustainable" target="infrastructure" id="296" weight="0.9931753873825073" />
+      <edge source="sustainable" target="key" id="297" weight="0.9931698441505432" />
+      <edge source="sustainable" target="evidence" id="298" weight="0.9931653738021851" />
+      <edge source="sustainable" target="social" id="299" weight="0.9930090308189392" />
+      <edge source="infrastructure" target="settlements" id="300" weight="0.9972969889640808" />
+      <edge source="infrastructure" target="urban" id="301" weight="0.9967586398124695" />
+      <edge source="infrastructure" target="cities" id="302" weight="0.9965927004814148" />
+      <edge source="infrastructure" target="also" id="303" weight="0.9965630173683167" />
+      <edge source="infrastructure" target="al" id="304" weight="0.9965021014213562" />
+      <edge source="infrastructure" target="global" id="305" weight="0.9962745308876038" />
+      <edge source="infrastructure" target="risks" id="306" weight="0.9962607622146606" />
+      <edge source="infrastructure" target="areas" id="307" weight="0.9962429404258728" />
+      <edge source="infrastructure" target="et" id="308" weight="0.9957370758056641" />
+      <edge source="infrastructure" target="including" id="309" weight="0.9953998923301697" />
+      <edge source="infrastructure" target="high" id="310" weight="0.9952101111412048" />
+      <edge source="infrastructure" target="section" id="311" weight="0.9952012300491333" />
+      <edge source="infrastructure" target="climate" id="312" weight="0.9950919151306152" />
+      <edge source="infrastructure" target="urbanisation" id="313" weight="0.9950761198997498" />
+      <edge source="infrastructure" target="chapter" id="314" weight="0.994762122631073" />
+      <edge source="infrastructure" target="key" id="315" weight="0.9946852922439575" />
+      <edge source="infrastructure" target="example" id="316" weight="0.9946709275245667" />
+      <edge source="infrastructure" target="risk" id="317" weight="0.9945967197418213" />
+      <edge source="infrastructure" target="heat" id="318" weight="0.9945697784423828" />
+      <edge source="infrastructure" target="vulnerability" id="319" weight="0.9945332407951355" />
+      <edge source="infrastructure" target="increase" id="320" weight="0.9945025444030762" />
+      <edge source="infrastructure" target="human" id="321" weight="0.9943190217018127" />
+      <edge source="infrastructure" target="people" id="322" weight="0.9943189024925232" />
+      <edge source="infrastructure" target="box" id="323" weight="0.9942669868469238" />
+      <edge source="infrastructure" target="migration" id="324" weight="0.9942273497581482" />
+      <edge source="example" target="settlements" id="325" weight="0.9962201118469238" />
+      <edge source="example" target="al" id="326" weight="0.9961457848548889" />
+      <edge source="example" target="also" id="327" weight="0.9958906769752502" />
+      <edge source="example" target="urban" id="328" weight="0.9958847165107727" />
+      <edge source="example" target="et" id="329" weight="0.9958054423332214" />
+      <edge source="example" target="areas" id="330" weight="0.9957433938980103" />
+      <edge source="example" target="risks" id="331" weight="0.995703399181366" />
+      <edge source="example" target="risk" id="332" weight="0.9956070184707642" />
+      <edge source="example" target="cities" id="333" weight="0.9954491853713989" />
+      <edge source="example" target="global" id="334" weight="0.9952713251113892" />
+      <edge source="example" target="chapter" id="335" weight="0.995212972164154" />
+      <edge source="example" target="section" id="336" weight="0.9951918721199036" />
+      <edge source="example" target="including" id="337" weight="0.9951755404472351" />
+      <edge source="example" target="high" id="338" weight="0.9950793981552124" />
+      <edge source="example" target="confidence" id="339" weight="0.9948820471763611" />
+      <edge source="example" target="heat" id="340" weight="0.9948740601539612" />
+      <edge source="example" target="climate" id="341" weight="0.9948340058326721" />
+      <edge source="example" target="urbanisation" id="342" weight="0.9948123693466187" />
+      <edge source="example" target="infrastructure" id="343" weight="0.9946709275245667" />
+      <edge source="example" target="impacts" id="344" weight="0.994165301322937" />
+      <edge source="example" target="vulnerability" id="345" weight="0.9939724206924438" />
+      <edge source="example" target="box" id="346" weight="0.9939036965370178" />
+      <edge source="example" target="migration" id="347" weight="0.9938900470733643" />
+      <edge source="example" target="increase" id="348" weight="0.9938117861747742" />
+      <edge source="example" target="people" id="349" weight="0.9937082529067993" />
+      <edge source="key" target="settlements" id="350" weight="0.9961972236633301" />
+      <edge source="key" target="risks" id="351" weight="0.9959279894828796" />
+      <edge source="key" target="et" id="352" weight="0.9959112405776978" />
+      <edge source="key" target="al" id="353" weight="0.9958083033561707" />
+      <edge source="key" target="risk" id="354" weight="0.9958067536354065" />
+      <edge source="key" target="urban" id="355" weight="0.9957501292228699" />
+      <edge source="key" target="cities" id="356" weight="0.9956209659576416" />
+      <edge source="key" target="also" id="357" weight="0.9950889945030212" />
+      <edge source="key" target="including" id="358" weight="0.9949679374694824" />
+      <edge source="key" target="areas" id="359" weight="0.9949184060096741" />
+      <edge source="key" target="global" id="360" weight="0.9947009086608887" />
+      <edge source="key" target="infrastructure" id="361" weight="0.9946852326393127" />
+      <edge source="key" target="chapter" id="362" weight="0.9946840405464172" />
+      <edge source="key" target="climate" id="363" weight="0.9946795701980591" />
+      <edge source="key" target="high" id="364" weight="0.9946343898773193" />
+      <edge source="key" target="confidence" id="365" weight="0.9944775104522705" />
+      <edge source="key" target="heat" id="366" weight="0.9942950010299683" />
+      <edge source="key" target="land" id="367" weight="0.9942072629928589" />
+      <edge source="key" target="box" id="368" weight="0.9940696954727173" />
+      <edge source="key" target="urbanisation" id="369" weight="0.994067370891571" />
+      <edge source="key" target="section" id="370" weight="0.9939168691635132" />
+      <edge source="key" target="vulnerability" id="371" weight="0.9934491515159607" />
+      <edge source="key" target="human" id="372" weight="0.9932680130004883" />
+      <edge source="key" target="impacts" id="373" weight="0.9932273626327515" />
+      <edge source="key" target="sustainable" id="374" weight="0.9931699633598328" />
+      <edge source="vulnerability" target="urban" id="375" weight="0.9966338276863098" />
+      <edge source="vulnerability" target="al" id="376" weight="0.9965768456459045" />
+      <edge source="vulnerability" target="risks" id="377" weight="0.9964234828948975" />
+      <edge source="vulnerability" target="cities" id="378" weight="0.9962320327758789" />
+      <edge source="vulnerability" target="also" id="379" weight="0.9960494637489319" />
+      <edge source="vulnerability" target="including" id="380" weight="0.9959731698036194" />
+      <edge source="vulnerability" target="settlements" id="381" weight="0.9958875775337219" />
+      <edge source="vulnerability" target="areas" id="382" weight="0.9958378672599792" />
+      <edge source="vulnerability" target="high" id="383" weight="0.9958273768424988" />
+      <edge source="vulnerability" target="global" id="384" weight="0.9957051873207092" />
+      <edge source="vulnerability" target="heat" id="385" weight="0.9954349398612976" />
+      <edge source="vulnerability" target="et" id="386" weight="0.9951167702674866" />
+      <edge source="vulnerability" target="confidence" id="387" weight="0.9950544238090515" />
+      <edge source="vulnerability" target="chapter" id="388" weight="0.9950113892555237" />
+      <edge source="vulnerability" target="risk" id="389" weight="0.9949029684066772" />
+      <edge source="vulnerability" target="people" id="390" weight="0.9946425557136536" />
+      <edge source="vulnerability" target="climate" id="391" weight="0.9946338534355164" />
+      <edge source="vulnerability" target="infrastructure" id="392" weight="0.9945330619812012" />
+      <edge source="vulnerability" target="urbanisation" id="393" weight="0.9944199919700623" />
+      <edge source="vulnerability" target="section" id="394" weight="0.9944125413894653" />
+      <edge source="vulnerability" target="migration" id="395" weight="0.9942014217376709" />
+      <edge source="vulnerability" target="sustainable" id="396" weight="0.9941166043281555" />
+      <edge source="vulnerability" target="example" id="397" weight="0.9939723610877991" />
+      <edge source="vulnerability" target="social" id="398" weight="0.9937564730644226" />
+      <edge source="vulnerability" target="box" id="399" weight="0.9936631917953491" />
+      <edge source="heat" target="settlements" id="400" weight="0.996834933757782" />
+      <edge source="heat" target="urban" id="401" weight="0.996503472328186" />
+      <edge source="heat" target="also" id="402" weight="0.9962849020957947" />
+      <edge source="heat" target="al" id="403" weight="0.996026337146759" />
+      <edge source="heat" target="areas" id="404" weight="0.9960174560546875" />
+      <edge source="heat" target="cities" id="405" weight="0.9959027767181396" />
+      <edge source="heat" target="risks" id="406" weight="0.9958486557006836" />
+      <edge source="heat" target="risk" id="407" weight="0.9957192540168762" />
+      <edge source="heat" target="high" id="408" weight="0.9956629276275635" />
+      <edge source="heat" target="global" id="409" weight="0.9954405426979065" />
+      <edge source="heat" target="vulnerability" id="410" weight="0.9954348206520081" />
+      <edge source="heat" target="section" id="411" weight="0.9952379465103149" />
+      <edge source="heat" target="chapter" id="412" weight="0.9951542615890503" />
+      <edge source="heat" target="et" id="413" weight="0.9951514005661011" />
+      <edge source="heat" target="box" id="414" weight="0.994916558265686" />
+      <edge source="heat" target="people" id="415" weight="0.9948932528495789" />
+      <edge source="heat" target="example" id="416" weight="0.9948740005493164" />
+      <edge source="heat" target="including" id="417" weight="0.9946958422660828" />
+      <edge source="heat" target="impacts" id="418" weight="0.9946830868721008" />
+      <edge source="heat" target="confidence" id="419" weight="0.9946622848510742" />
+      <edge source="heat" target="infrastructure" id="420" weight="0.9945695996284485" />
+      <edge source="heat" target="migration" id="421" weight="0.9943858981132507" />
+      <edge source="heat" target="climate" id="422" weight="0.9943251013755798" />
+      <edge source="heat" target="evidence" id="423" weight="0.9943084120750427" />
+      <edge source="heat" target="key" id="424" weight="0.9942950010299683" />
+      <edge source="impacts" target="areas" id="425" weight="0.9962917566299438" />
+      <edge source="impacts" target="settlements" id="426" weight="0.9961174130439758" />
+      <edge source="impacts" target="also" id="427" weight="0.9960533380508423" />
+      <edge source="impacts" target="al" id="428" weight="0.995873749256134" />
+      <edge source="impacts" target="cities" id="429" weight="0.9958398938179016" />
+      <edge source="impacts" target="urban" id="430" weight="0.9957862496376038" />
+      <edge source="impacts" target="risks" id="431" weight="0.9953261613845825" />
+      <edge source="impacts" target="et" id="432" weight="0.9950411915779114" />
+      <edge source="impacts" target="heat" id="433" weight="0.9946832060813904" />
+      <edge source="impacts" target="global" id="434" weight="0.9946502447128296" />
+      <edge source="impacts" target="high" id="435" weight="0.994627058506012" />
+      <edge source="impacts" target="chapter" id="436" weight="0.9944419860839844" />
+      <edge source="impacts" target="climate" id="437" weight="0.994257390499115" />
+      <edge source="impacts" target="example" id="438" weight="0.9941653609275818" />
+      <edge source="impacts" target="risk" id="439" weight="0.9941502213478088" />
+      <edge source="impacts" target="urbanisation" id="440" weight="0.9939877986907959" />
+      <edge source="impacts" target="including" id="441" weight="0.9939541816711426" />
+      <edge source="impacts" target="section" id="442" weight="0.9939478039741516" />
+      <edge source="impacts" target="confidence" id="443" weight="0.9938929677009583" />
+      <edge source="impacts" target="people" id="444" weight="0.9938541650772095" />
+      <edge source="impacts" target="migration" id="445" weight="0.9938012957572937" />
+      <edge source="impacts" target="infrastructure" id="446" weight="0.9936205744743347" />
+      <edge source="impacts" target="vulnerability" id="447" weight="0.993389368057251" />
+      <edge source="impacts" target="evidence" id="448" weight="0.9933455586433411" />
+      <edge source="impacts" target="key" id="449" weight="0.9932273030281067" />
+      <edge source="adaptation" target="risks" id="450" weight="0.9940441250801086" />
+      <edge source="adaptation" target="urban" id="451" weight="0.9939907789230347" />
+      <edge source="adaptation" target="settlements" id="452" weight="0.9938329458236694" />
+      <edge source="adaptation" target="global" id="453" weight="0.9937986135482788" />
+      <edge source="adaptation" target="including" id="454" weight="0.9937781691551208" />
+      <edge source="adaptation" target="climate" id="455" weight="0.9937424063682556" />
+      <edge source="adaptation" target="cities" id="456" weight="0.9937393069267273" />
+      <edge source="adaptation" target="al" id="457" weight="0.9936333894729614" />
+      <edge source="adaptation" target="areas" id="458" weight="0.9935939908027649" />
+      <edge source="adaptation" target="high" id="459" weight="0.9935592412948608" />
+      <edge source="adaptation" target="also" id="460" weight="0.993535578250885" />
+      <edge source="adaptation" target="et" id="461" weight="0.9934532642364502" />
+      <edge source="adaptation" target="section" id="462" weight="0.9933719635009766" />
+      <edge source="adaptation" target="human" id="463" weight="0.9929686784744263" />
+      <edge source="adaptation" target="heat" id="464" weight="0.9928625822067261" />
+      <edge source="adaptation" target="impacts" id="465" weight="0.992612361907959" />
+      <edge source="adaptation" target="risk" id="466" weight="0.9925308227539062" />
+      <edge source="adaptation" target="increase" id="467" weight="0.9925087690353394" />
+      <edge source="adaptation" target="confidence" id="468" weight="0.9924251437187195" />
+      <edge source="adaptation" target="box" id="469" weight="0.992313027381897" />
+      <edge source="adaptation" target="infrastructure" id="470" weight="0.9922583103179932" />
+      <edge source="adaptation" target="urbanisation" id="471" weight="0.992117702960968" />
+      <edge source="adaptation" target="example" id="472" weight="0.9919900298118591" />
+      <edge source="adaptation" target="chapter" id="473" weight="0.991902768611908" />
+      <edge source="adaptation" target="development" id="474" weight="0.9916902184486389" />
+      <edge source="development" target="also" id="475" weight="0.9943505525588989" />
+      <edge source="development" target="urban" id="476" weight="0.9943321943283081" />
+      <edge source="development" target="al" id="477" weight="0.994225025177002" />
+      <edge source="development" target="areas" id="478" weight="0.9938852787017822" />
+      <edge source="development" target="settlements" id="479" weight="0.9936879873275757" />
+      <edge source="development" target="et" id="480" weight="0.9936783909797668" />
+      <edge source="development" target="risks" id="481" weight="0.9935799241065979" />
+      <edge source="development" target="cities" id="482" weight="0.9934734106063843" />
+      <edge source="development" target="confidence" id="483" weight="0.9930201172828674" />
+      <edge source="development" target="impacts" id="484" weight="0.9930131435394287" />
+      <edge source="development" target="urbanisation" id="485" weight="0.9929712414741516" />
+      <edge source="development" target="high" id="486" weight="0.9928686022758484" />
+      <edge source="development" target="including" id="487" weight="0.992782711982727" />
+      <edge source="development" target="vulnerability" id="488" weight="0.9927487969398499" />
+      <edge source="development" target="climate" id="489" weight="0.9926947355270386" />
+      <edge source="development" target="risk" id="490" weight="0.9926407933235168" />
+      <edge source="development" target="global" id="491" weight="0.9926236867904663" />
+      <edge source="development" target="increase" id="492" weight="0.9922561049461365" />
+      <edge source="development" target="infrastructure" id="493" weight="0.9921855330467224" />
+      <edge source="development" target="key" id="494" weight="0.9921214580535889" />
+      <edge source="development" target="people" id="495" weight="0.9920503497123718" />
+      <edge source="development" target="chapter" id="496" weight="0.9920237064361572" />
+      <edge source="development" target="migration" id="497" weight="0.9917848706245422" />
+      <edge source="development" target="evidence" id="498" weight="0.9917720556259155" />
+      <edge source="development" target="adaptation" id="499" weight="0.9916902780532837" />
+      <edge source="change" target="urban" id="500" weight="0.9947345852851868" />
+      <edge source="change" target="section" id="501" weight="0.9945843815803528" />
+      <edge source="change" target="risks" id="502" weight="0.9945562481880188" />
+      <edge source="change" target="settlements" id="503" weight="0.9943301677703857" />
+      <edge source="change" target="also" id="504" weight="0.9937306046485901" />
+      <edge source="change" target="cities" id="505" weight="0.9937199950218201" />
+      <edge source="change" target="areas" id="506" weight="0.9936316013336182" />
+      <edge source="change" target="including" id="507" weight="0.9935356974601746" />
+      <edge source="change" target="et" id="508" weight="0.9935208559036255" />
+      <edge source="change" target="al" id="509" weight="0.9935165643692017" />
+      <edge source="change" target="global" id="510" weight="0.9935107231140137" />
+      <edge source="change" target="people" id="511" weight="0.9931868314743042" />
+      <edge source="change" target="risk" id="512" weight="0.9930980801582336" />
+      <edge source="change" target="high" id="513" weight="0.993038535118103" />
+      <edge source="change" target="heat" id="514" weight="0.9928468465805054" />
+      <edge source="change" target="climate" id="515" weight="0.9927396178245544" />
+      <edge source="change" target="key" id="516" weight="0.9926849007606506" />
+      <edge source="change" target="vulnerability" id="517" weight="0.9923021793365479" />
+      <edge source="change" target="sustainable" id="518" weight="0.9922879338264465" />
+      <edge source="change" target="confidence" id="519" weight="0.9919730424880981" />
+      <edge source="change" target="box" id="520" weight="0.991951584815979" />
+      <edge source="change" target="infrastructure" id="521" weight="0.9919375777244568" />
+      <edge source="change" target="evidence" id="522" weight="0.991703450679779" />
+      <edge source="change" target="migration" id="523" weight="0.9915194511413574" />
+      <edge source="change" target="adaptation" id="524" weight="0.991486132144928" />
+      <edge source="evidence" target="cities" id="525" weight="0.9957419633865356" />
+      <edge source="evidence" target="areas" id="526" weight="0.9953833222389221" />
+      <edge source="evidence" target="urban" id="527" weight="0.9953584671020508" />
+      <edge source="evidence" target="risk" id="528" weight="0.9950607419013977" />
+      <edge source="evidence" target="also" id="529" weight="0.99503093957901" />
+      <edge source="evidence" target="risks" id="530" weight="0.9950013160705566" />
+      <edge source="evidence" target="high" id="531" weight="0.9949806928634644" />
+      <edge source="evidence" target="people" id="532" weight="0.9948545098304749" />
+      <edge source="evidence" target="settlements" id="533" weight="0.9947884678840637" />
+      <edge source="evidence" target="al" id="534" weight="0.9947004914283752" />
+      <edge source="evidence" target="global" id="535" weight="0.9944934248924255" />
+      <edge source="evidence" target="heat" id="536" weight="0.994308590888977" />
+      <edge source="evidence" target="urbanisation" id="537" weight="0.9942561388015747" />
+      <edge source="evidence" target="climate" id="538" weight="0.9942358136177063" />
+      <edge source="evidence" target="including" id="539" weight="0.9941927194595337" />
+      <edge source="evidence" target="section" id="540" weight="0.9941209554672241" />
+      <edge source="evidence" target="et" id="541" weight="0.9940448999404907" />
+      <edge source="evidence" target="increase" id="542" weight="0.9937678575515747" />
+      <edge source="evidence" target="example" id="543" weight="0.9935920834541321" />
+      <edge source="evidence" target="confidence" id="544" weight="0.9935713410377502" />
+      <edge source="evidence" target="land" id="545" weight="0.9935024976730347" />
+      <edge source="evidence" target="infrastructure" id="546" weight="0.9934945106506348" />
+      <edge source="evidence" target="social" id="547" weight="0.9933971762657166" />
+      <edge source="evidence" target="impacts" id="548" weight="0.9933454990386963" />
+      <edge source="evidence" target="vulnerability" id="549" weight="0.9933316111564636" />
+      <edge source="water" target="also" id="550" weight="0.9942685961723328" />
+      <edge source="water" target="al" id="551" weight="0.9941976070404053" />
+      <edge source="water" target="urban" id="552" weight="0.9941441416740417" />
+      <edge source="water" target="settlements" id="553" weight="0.9941050410270691" />
+      <edge source="water" target="risks" id="554" weight="0.9938040375709534" />
+      <edge source="water" target="cities" id="555" weight="0.9934641122817993" />
+      <edge source="water" target="et" id="556" weight="0.9932684302330017" />
+      <edge source="water" target="areas" id="557" weight="0.9932053089141846" />
+      <edge source="water" target="infrastructure" id="558" weight="0.9930992126464844" />
+      <edge source="water" target="section" id="559" weight="0.9930139780044556" />
+      <edge source="water" target="including" id="560" weight="0.9929323792457581" />
+      <edge source="water" target="global" id="561" weight="0.9928780794143677" />
+      <edge source="water" target="example" id="562" weight="0.9926584362983704" />
+      <edge source="water" target="high" id="563" weight="0.9926185607910156" />
+      <edge source="water" target="urbanisation" id="564" weight="0.9926022887229919" />
+      <edge source="water" target="risk" id="565" weight="0.9925004839897156" />
+      <edge source="water" target="people" id="566" weight="0.9924675226211548" />
+      <edge source="water" target="vulnerability" id="567" weight="0.992171585559845" />
+      <edge source="water" target="heat" id="568" weight="0.9921653866767883" />
+      <edge source="water" target="migration" id="569" weight="0.9918303489685059" />
+      <edge source="water" target="social" id="570" weight="0.9916518330574036" />
+      <edge source="water" target="chapter" id="571" weight="0.991639256477356" />
+      <edge source="water" target="associated" id="572" weight="0.9913625121116638" />
+      <edge source="water" target="box" id="573" weight="0.9913589358329773" />
+      <edge source="water" target="impacts" id="574" weight="0.9913106560707092" />
+      <edge source="social" target="urban" id="575" weight="0.9951204061508179" />
+      <edge source="social" target="settlements" id="576" weight="0.994780421257019" />
+      <edge source="social" target="et" id="577" weight="0.9947731494903564" />
+      <edge source="social" target="risks" id="578" weight="0.9947026968002319" />
+      <edge source="social" target="high" id="579" weight="0.9946934580802917" />
+      <edge source="social" target="also" id="580" weight="0.9945729970932007" />
+      <edge source="social" target="areas" id="581" weight="0.9944998025894165" />
+      <edge source="social" target="al" id="582" weight="0.9943526983261108" />
+      <edge source="social" target="including" id="583" weight="0.9943292737007141" />
+      <edge source="social" target="infrastructure" id="584" weight="0.9941385388374329" />
+      <edge source="social" target="cities" id="585" weight="0.9938098788261414" />
+      <edge source="social" target="vulnerability" id="586" weight="0.9937563538551331" />
+      <edge source="social" target="heat" id="587" weight="0.9937329292297363" />
+      <edge source="social" target="risk" id="588" weight="0.9936770796775818" />
+      <edge source="social" target="people" id="589" weight="0.9936750531196594" />
+      <edge source="social" target="evidence" id="590" weight="0.9933972954750061" />
+      <edge source="social" target="global" id="591" weight="0.9933516383171082" />
+      <edge source="social" target="climate" id="592" weight="0.9931681752204895" />
+      <edge source="social" target="confidence" id="593" weight="0.9931041598320007" />
+      <edge source="social" target="section" id="594" weight="0.9930936694145203" />
+      <edge source="social" target="box" id="595" weight="0.993078887462616" />
+      <edge source="social" target="sustainable" id="596" weight="0.993009090423584" />
+      <edge source="social" target="urbanisation" id="597" weight="0.993009090423584" />
+      <edge source="social" target="increase" id="598" weight="0.9926645159721375" />
+      <edge source="social" target="land" id="599" weight="0.9926469922065735" />
+      <edge source="local" target="also" id="600" weight="0.9912257194519043" />
+      <edge source="local" target="et" id="601" weight="0.9909605383872986" />
+      <edge source="local" target="section" id="602" weight="0.9909095168113708" />
+      <edge source="local" target="areas" id="603" weight="0.9907508492469788" />
+      <edge source="local" target="urban" id="604" weight="0.990561842918396" />
+      <edge source="local" target="al" id="605" weight="0.9904676675796509" />
+      <edge source="local" target="cities" id="606" weight="0.9900744557380676" />
+      <edge source="local" target="risks" id="607" weight="0.9898146986961365" />
+      <edge source="local" target="adaptation" id="608" weight="0.9897627234458923" />
+      <edge source="local" target="heat" id="609" weight="0.9897164106369019" />
+      <edge source="local" target="urbanisation" id="610" weight="0.9895520806312561" />
+      <edge source="local" target="global" id="611" weight="0.9894444346427917" />
+      <edge source="local" target="settlements" id="612" weight="0.9893772602081299" />
+      <edge source="local" target="social" id="613" weight="0.988917350769043" />
+      <edge source="local" target="including" id="614" weight="0.988906979560852" />
+      <edge source="local" target="impacts" id="615" weight="0.988864541053772" />
+      <edge source="local" target="high" id="616" weight="0.9888583421707153" />
+      <edge source="local" target="example" id="617" weight="0.9888547658920288" />
+      <edge source="local" target="infrastructure" id="618" weight="0.9887505769729614" />
+      <edge source="local" target="confidence" id="619" weight="0.9886402487754822" />
+      <edge source="local" target="people" id="620" weight="0.988623321056366" />
+      <edge source="local" target="box" id="621" weight="0.9885702133178711" />
+      <edge source="local" target="increase" id="622" weight="0.9883456826210022" />
+      <edge source="local" target="migration" id="623" weight="0.9880838990211487" />
+      <edge source="local" target="risk" id="624" weight="0.988067090511322" />
+      <edge source="environ" target="pelling" id="625" weight="0.39068785309791565" />
+      <edge source="environ" target="town" id="626" weight="0.38805851340293884" />
+      <edge source="environ" target="usd" id="627" weight="0.3696264624595642" />
+      <edge source="environ" target="farreaching" id="628" weight="0.36207136511802673" />
+      <edge source="environ" target="citizenship" id="629" weight="0.354410856962204" />
+      <edge source="environ" target="himalayas" id="630" weight="0.35294902324676514" />
+      <edge source="environ" target="wilkinson" id="631" weight="0.3514114022254944" />
+      <edge source="environ" target="productivity" id="632" weight="0.35131850838661194" />
+      <edge source="environ" target="defining" id="633" weight="0.35060569643974304" />
+      <edge source="environ" target="zheng" id="634" weight="0.3387225866317749" />
+      <edge source="environ" target="together" id="635" weight="0.3375263214111328" />
+      <edge source="environ" target="net" id="636" weight="0.3364982008934021" />
+      <edge source="environ" target="continue" id="637" weight="0.3329060673713684" />
+      <edge source="environ" target="means" id="638" weight="0.3315916657447815" />
+      <edge source="environ" target="lee" id="639" weight="0.3310801684856415" />
+      <edge source="environ" target="variables" id="640" weight="0.33006444573402405" />
+      <edge source="environ" target="similarly" id="641" weight="0.32889848947525024" />
+      <edge source="environ" target="sources" id="642" weight="0.3250132203102112" />
+      <edge source="environ" target="liu" id="643" weight="0.31989914178848267" />
+      <edge source="environ" target="lower" id="644" weight="0.31926101446151733" />
+      <edge source="environ" target="compounded" id="645" weight="0.31867244839668274" />
+      <edge source="environ" target="relationships" id="646" weight="0.3174402117729187" />
+      <edge source="environ" target="aims" id="647" weight="0.31455162167549133" />
+      <edge source="environ" target="integrating" id="648" weight="0.3139077126979828" />
+      <edge source="environ" target="summary" id="649" weight="0.3125474154949188" />
+      <edge source="land" target="settlements" id="650" weight="0.9947009682655334" />
+      <edge source="land" target="urban" id="651" weight="0.9943162798881531" />
+      <edge source="land" target="risks" id="652" weight="0.9942934513092041" />
+      <edge source="land" target="et" id="653" weight="0.9942918419837952" />
+      <edge source="land" target="key" id="654" weight="0.9942072629928589" />
+      <edge source="land" target="global" id="655" weight="0.9941206574440002" />
+      <edge source="land" target="heat" id="656" weight="0.9941092133522034" />
+      <edge source="land" target="al" id="657" weight="0.9941078424453735" />
+      <edge source="land" target="areas" id="658" weight="0.9940517544746399" />
+      <edge source="land" target="also" id="659" weight="0.9940107464790344" />
+      <edge source="land" target="risk" id="660" weight="0.9935533404350281" />
+      <edge source="land" target="including" id="661" weight="0.9935235381126404" />
+      <edge source="land" target="cities" id="662" weight="0.9935229420661926" />
+      <edge source="land" target="high" id="663" weight="0.9935083389282227" />
+      <edge source="land" target="evidence" id="664" weight="0.9935026168823242" />
+      <edge source="land" target="example" id="665" weight="0.9934924244880676" />
+      <edge source="land" target="chapter" id="666" weight="0.9934056997299194" />
+      <edge source="land" target="climate" id="667" weight="0.9933508038520813" />
+      <edge source="land" target="confidence" id="668" weight="0.9933315515518188" />
+      <edge source="land" target="infrastructure" id="669" weight="0.9932244420051575" />
+      <edge source="land" target="box" id="670" weight="0.9931023716926575" />
+      <edge source="land" target="impacts" id="671" weight="0.9929868578910828" />
+      <edge source="land" target="people" id="672" weight="0.9928727149963379" />
+      <edge source="land" target="sustainable" id="673" weight="0.9927716851234436" />
+      <edge source="land" target="urbanisation" id="674" weight="0.9927470088005066" />
+      <edge source="policy" target="including" id="675" weight="0.9624874591827393" />
+      <edge source="policy" target="et" id="676" weight="0.9622937440872192" />
+      <edge source="policy" target="settlements" id="677" weight="0.9620938301086426" />
+      <edge source="policy" target="climate" id="678" weight="0.9619913101196289" />
+      <edge source="policy" target="chapter" id="679" weight="0.961750328540802" />
+      <edge source="policy" target="associated" id="680" weight="0.9616729021072388" />
+      <edge source="policy" target="vulnerability" id="681" weight="0.9615260362625122" />
+      <edge source="policy" target="cities" id="682" weight="0.9614771008491516" />
+      <edge source="policy" target="also" id="683" weight="0.9613924622535706" />
+      <edge source="policy" target="infrastructure" id="684" weight="0.9609925746917725" />
+      <edge source="policy" target="global" id="685" weight="0.960780680179596" />
+      <edge source="policy" target="risks" id="686" weight="0.9605628252029419" />
+      <edge source="policy" target="social" id="687" weight="0.9602705240249634" />
+      <edge source="policy" target="urban" id="688" weight="0.9602619409561157" />
+      <edge source="policy" target="al" id="689" weight="0.9601985812187195" />
+      <edge source="policy" target="key" id="690" weight="0.9600033760070801" />
+      <edge source="policy" target="example" id="691" weight="0.9598681330680847" />
+      <edge source="policy" target="confidence" id="692" weight="0.959678053855896" />
+      <edge source="policy" target="areas" id="693" weight="0.9595621228218079" />
+      <edge source="policy" target="migration" id="694" weight="0.9595203995704651" />
+      <edge source="policy" target="people" id="695" weight="0.9594960808753967" />
+      <edge source="policy" target="risk" id="696" weight="0.9594432711601257" />
+      <edge source="policy" target="action" id="697" weight="0.9593297243118286" />
+      <edge source="policy" target="box" id="698" weight="0.9593130350112915" />
+      <edge source="policy" target="section" id="699" weight="0.9592561721801758" />
+      <edge source="action" target="settlements" id="700" weight="0.9912528991699219" />
+      <edge source="action" target="al" id="701" weight="0.9908193945884705" />
+      <edge source="action" target="also" id="702" weight="0.9904463291168213" />
+      <edge source="action" target="urban" id="703" weight="0.9904332756996155" />
+      <edge source="action" target="et" id="704" weight="0.9902868270874023" />
+      <edge source="action" target="including" id="705" weight="0.9901289939880371" />
+      <edge source="action" target="cities" id="706" weight="0.990055501461029" />
+      <edge source="action" target="areas" id="707" weight="0.9899091720581055" />
+      <edge source="action" target="global" id="708" weight="0.989902675151825" />
+      <edge source="action" target="urbanisation" id="709" weight="0.9898685216903687" />
+      <edge source="action" target="risk" id="710" weight="0.9897505640983582" />
+      <edge source="action" target="increase" id="711" weight="0.9897215366363525" />
+      <edge source="action" target="migration" id="712" weight="0.9897099137306213" />
+      <edge source="action" target="risks" id="713" weight="0.989684522151947" />
+      <edge source="action" target="development" id="714" weight="0.9896772503852844" />
+      <edge source="action" target="climate" id="715" weight="0.9895939230918884" />
+      <edge source="action" target="vulnerability" id="716" weight="0.9893402457237244" />
+      <edge source="action" target="infrastructure" id="717" weight="0.9892951250076294" />
+      <edge source="action" target="population" id="718" weight="0.9889177680015564" />
+      <edge source="action" target="key" id="719" weight="0.9888620376586914" />
+      <edge source="action" target="box" id="720" weight="0.9886665940284729" />
+      <edge source="action" target="people" id="721" weight="0.9884565472602844" />
+      <edge source="action" target="high" id="722" weight="0.9883983135223389" />
+      <edge source="action" target="chapter" id="723" weight="0.988383948802948" />
+      <edge source="action" target="heat" id="724" weight="0.9883162975311279" />
+      <edge source="resilience" target="infrastructure" id="725" weight="0.9878503680229187" />
+      <edge source="resilience" target="settlements" id="726" weight="0.9863532781600952" />
+      <edge source="resilience" target="cities" id="727" weight="0.9862995147705078" />
+      <edge source="resilience" target="areas" id="728" weight="0.986115574836731" />
+      <edge source="resilience" target="urban" id="729" weight="0.985511839389801" />
+      <edge source="resilience" target="risk" id="730" weight="0.9850980043411255" />
+      <edge source="resilience" target="risks" id="731" weight="0.985015332698822" />
+      <edge source="resilience" target="al" id="732" weight="0.9849382638931274" />
+      <edge source="resilience" target="vulnerability" id="733" weight="0.9848926067352295" />
+      <edge source="resilience" target="high" id="734" weight="0.9847221970558167" />
+      <edge source="resilience" target="also" id="735" weight="0.9845130443572998" />
+      <edge source="resilience" target="heat" id="736" weight="0.9843947887420654" />
+      <edge source="resilience" target="chapter" id="737" weight="0.9842454195022583" />
+      <edge source="resilience" target="global" id="738" weight="0.9842135310173035" />
+      <edge source="resilience" target="including" id="739" weight="0.9841218590736389" />
+      <edge source="resilience" target="key" id="740" weight="0.9839798212051392" />
+      <edge source="resilience" target="populations" id="741" weight="0.9839674830436707" />
+      <edge source="resilience" target="impacts" id="742" weight="0.9837909936904907" />
+      <edge source="resilience" target="et" id="743" weight="0.9835380911827087" />
+      <edge source="resilience" target="people" id="744" weight="0.9833932518959045" />
+      <edge source="resilience" target="section" id="745" weight="0.9833515286445618" />
+      <edge source="resilience" target="climate" id="746" weight="0.9833155870437622" />
+      <edge source="resilience" target="likely" id="747" weight="0.9832903146743774" />
+      <edge source="resilience" target="confidence" id="748" weight="0.9832645654678345" />
+      <edge source="resilience" target="box" id="749" weight="0.9831816554069519" />
+      <edge source="planning" target="et" id="750" weight="0.9870644211769104" />
+      <edge source="planning" target="also" id="751" weight="0.986276388168335" />
+      <edge source="planning" target="urban" id="752" weight="0.9860610365867615" />
+      <edge source="planning" target="risks" id="753" weight="0.9858203530311584" />
+      <edge source="planning" target="areas" id="754" weight="0.9857883453369141" />
+      <edge source="planning" target="settlements" id="755" weight="0.9854675531387329" />
+      <edge source="planning" target="al" id="756" weight="0.98542720079422" />
+      <edge source="planning" target="human" id="757" weight="0.9852064251899719" />
+      <edge source="planning" target="migration" id="758" weight="0.9850122332572937" />
+      <edge source="planning" target="section" id="759" weight="0.9849278926849365" />
+      <edge source="planning" target="cities" id="760" weight="0.98456871509552" />
+      <edge source="planning" target="global" id="761" weight="0.984467089176178" />
+      <edge source="planning" target="infrastructure" id="762" weight="0.9844647645950317" />
+      <edge source="planning" target="high" id="763" weight="0.9842826724052429" />
+      <edge source="planning" target="example" id="764" weight="0.9842660427093506" />
+      <edge source="planning" target="impacts" id="765" weight="0.9842348694801331" />
+      <edge source="planning" target="chapter" id="766" weight="0.984189510345459" />
+      <edge source="planning" target="likely" id="767" weight="0.9839997887611389" />
+      <edge source="planning" target="medium" id="768" weight="0.9838575720787048" />
+      <edge source="planning" target="urbanisation" id="769" weight="0.9837633967399597" />
+      <edge source="planning" target="box" id="770" weight="0.9837437868118286" />
+      <edge source="planning" target="risk" id="771" weight="0.9837403297424316" />
+      <edge source="planning" target="confidence" id="772" weight="0.9837297201156616" />
+      <edge source="planning" target="heat" id="773" weight="0.9836888909339905" />
+      <edge source="planning" target="vulnerability" id="774" weight="0.9835860729217529" />
+      <edge source="health" target="cities" id="775" weight="0.9922379851341248" />
+      <edge source="health" target="also" id="776" weight="0.9918807744979858" />
+      <edge source="health" target="settlements" id="777" weight="0.9917869567871094" />
+      <edge source="health" target="areas" id="778" weight="0.9916969537734985" />
+      <edge source="health" target="urban" id="779" weight="0.9913202524185181" />
+      <edge source="health" target="including" id="780" weight="0.9912574887275696" />
+      <edge source="health" target="et" id="781" weight="0.9912310242652893" />
+      <edge source="health" target="urbanisation" id="782" weight="0.9911552667617798" />
+      <edge source="health" target="infrastructure" id="783" weight="0.9910427927970886" />
+      <edge source="health" target="risks" id="784" weight="0.9907773733139038" />
+      <edge source="health" target="al" id="785" weight="0.9906513690948486" />
+      <edge source="health" target="chapter" id="786" weight="0.9904457926750183" />
+      <edge source="health" target="risk" id="787" weight="0.9902839064598083" />
+      <edge source="health" target="climate" id="788" weight="0.9901991486549377" />
+      <edge source="health" target="impacts" id="789" weight="0.9901935458183289" />
+      <edge source="health" target="section" id="790" weight="0.9898924827575684" />
+      <edge source="health" target="adaptation" id="791" weight="0.9898679852485657" />
+      <edge source="health" target="sustainable" id="792" weight="0.9898485541343689" />
+      <edge source="health" target="million" id="793" weight="0.9898409843444824" />
+      <edge source="health" target="heat" id="794" weight="0.9897876977920532" />
+      <edge source="health" target="migration" id="795" weight="0.9897560477256775" />
+      <edge source="health" target="evidence" id="796" weight="0.9896628260612488" />
+      <edge source="health" target="increase" id="797" weight="0.989589273929596" />
+      <edge source="health" target="see" id="798" weight="0.9895763397216797" />
+      <edge source="health" target="box" id="799" weight="0.9895344376564026" />
+      <edge source="systems" target="urban" id="800" weight="0.993767261505127" />
+      <edge source="systems" target="also" id="801" weight="0.9936234951019287" />
+      <edge source="systems" target="cities" id="802" weight="0.9934548735618591" />
+      <edge source="systems" target="al" id="803" weight="0.9933035373687744" />
+      <edge source="systems" target="settlements" id="804" weight="0.9932755827903748" />
+      <edge source="systems" target="climate" id="805" weight="0.9932002425193787" />
+      <edge source="systems" target="risks" id="806" weight="0.9927489757537842" />
+      <edge source="systems" target="global" id="807" weight="0.9927317500114441" />
+      <edge source="systems" target="areas" id="808" weight="0.992618978023529" />
+      <edge source="systems" target="urbanisation" id="809" weight="0.9924721717834473" />
+      <edge source="systems" target="infrastructure" id="810" weight="0.9924327731132507" />
+      <edge source="systems" target="human" id="811" weight="0.992387056350708" />
+      <edge source="systems" target="et" id="812" weight="0.9922070503234863" />
+      <edge source="systems" target="chapter" id="813" weight="0.9920597076416016" />
+      <edge source="systems" target="risk" id="814" weight="0.9920259118080139" />
+      <edge source="systems" target="including" id="815" weight="0.9919319748878479" />
+      <edge source="systems" target="people" id="816" weight="0.9918385744094849" />
+      <edge source="systems" target="impacts" id="817" weight="0.9916893839836121" />
+      <edge source="systems" target="key" id="818" weight="0.9916059970855713" />
+      <edge source="systems" target="sustainable" id="819" weight="0.9915800094604492" />
+      <edge source="systems" target="evidence" id="820" weight="0.991531491279602" />
+      <edge source="systems" target="vulnerability" id="821" weight="0.9915254712104797" />
+      <edge source="systems" target="high" id="822" weight="0.9914957284927368" />
+      <edge source="systems" target="heat" id="823" weight="0.9914714694023132" />
+      <edge source="systems" target="confidence" id="824" weight="0.9911603927612305" />
+      <edge source="management" target="chapter" id="825" weight="0.9568469524383545" />
+      <edge source="management" target="example" id="826" weight="0.9547593593597412" />
+      <edge source="management" target="flood" id="827" weight="0.9545400142669678" />
+      <edge source="management" target="al" id="828" weight="0.9544966816902161" />
+      <edge source="management" target="less" id="829" weight="0.954197347164154" />
+      <edge source="management" target="including" id="830" weight="0.9540891051292419" />
+      <edge source="management" target="vulnerability" id="831" weight="0.9540314078330994" />
+      <edge source="management" target="water" id="832" weight="0.9539684057235718" />
+      <edge source="management" target="infrastructure" id="833" weight="0.953956663608551" />
+      <edge source="management" target="settlements" id="834" weight="0.9537377953529358" />
+      <edge source="management" target="risks" id="835" weight="0.9534613490104675" />
+      <edge source="management" target="international" id="836" weight="0.9533601999282837" />
+      <edge source="management" target="impacts" id="837" weight="0.953300416469574" />
+      <edge source="management" target="increase" id="838" weight="0.9532559514045715" />
+      <edge source="management" target="land" id="839" weight="0.9531644582748413" />
+      <edge source="management" target="also" id="840" weight="0.953094482421875" />
+      <edge source="management" target="urban" id="841" weight="0.9530015587806702" />
+      <edge source="management" target="cities" id="842" weight="0.952852189540863" />
+      <edge source="management" target="et" id="843" weight="0.9526678919792175" />
+      <edge source="management" target="confidence" id="844" weight="0.9525768756866455" />
+      <edge source="management" target="climate" id="845" weight="0.9525483846664429" />
+      <edge source="management" target="migration" id="846" weight="0.952384352684021" />
+      <edge source="management" target="global" id="847" weight="0.9523208737373352" />
+      <edge source="management" target="risk" id="848" weight="0.9522261619567871" />
+      <edge source="management" target="exposure" id="849" weight="0.952113687992096" />
+      <edge source="flood" target="also" id="850" weight="0.9880273938179016" />
+      <edge source="flood" target="increase" id="851" weight="0.9875219464302063" />
+      <edge source="flood" target="key" id="852" weight="0.9870181083679199" />
+      <edge source="flood" target="et" id="853" weight="0.9869128465652466" />
+      <edge source="flood" target="urban" id="854" weight="0.9866241216659546" />
+      <edge source="flood" target="global" id="855" weight="0.9865541458129883" />
+      <edge source="flood" target="al" id="856" weight="0.9864271879196167" />
+      <edge source="flood" target="chapter" id="857" weight="0.9863319396972656" />
+      <edge source="flood" target="confidence" id="858" weight="0.9861544966697693" />
+      <edge source="flood" target="risks" id="859" weight="0.9858297109603882" />
+      <edge source="flood" target="sustainable" id="860" weight="0.9857766032218933" />
+      <edge source="flood" target="settlements" id="861" weight="0.9854723811149597" />
+      <edge source="flood" target="people" id="862" weight="0.985358715057373" />
+      <edge source="flood" target="areas" id="863" weight="0.9851502180099487" />
+      <edge source="flood" target="example" id="864" weight="0.9851098656654358" />
+      <edge source="flood" target="vulnerability" id="865" weight="0.9850996136665344" />
+      <edge source="flood" target="migration" id="866" weight="0.9849016070365906" />
+      <edge source="flood" target="cities" id="867" weight="0.9848885536193848" />
+      <edge source="flood" target="risk" id="868" weight="0.9848743081092834" />
+      <edge source="flood" target="heat" id="869" weight="0.9848482012748718" />
+      <edge source="flood" target="section" id="870" weight="0.9848135709762573" />
+      <edge source="flood" target="evidence" id="871" weight="0.9847598671913147" />
+      <edge source="flood" target="agreement" id="872" weight="0.9846542477607727" />
+      <edge source="flood" target="land" id="873" weight="0.9845408797264099" />
+      <edge source="flood" target="infrastructure" id="874" weight="0.984450101852417" />
+      <edge source="energy" target="cities" id="875" weight="0.9816044569015503" />
+      <edge source="energy" target="infrastructure" id="876" weight="0.9802643060684204" />
+      <edge source="energy" target="areas" id="877" weight="0.9797490239143372" />
+      <edge source="energy" target="settlements" id="878" weight="0.9793941378593445" />
+      <edge source="energy" target="development" id="879" weight="0.9792022109031677" />
+      <edge source="energy" target="global" id="880" weight="0.979012131690979" />
+      <edge source="energy" target="evidence" id="881" weight="0.9789499640464783" />
+      <edge source="energy" target="urban" id="882" weight="0.978797197341919" />
+      <edge source="energy" target="risks" id="883" weight="0.9785478115081787" />
+      <edge source="energy" target="population" id="884" weight="0.9783102869987488" />
+      <edge source="energy" target="also" id="885" weight="0.9782293438911438" />
+      <edge source="energy" target="climate" id="886" weight="0.9781812429428101" />
+      <edge source="energy" target="al" id="887" weight="0.9780144691467285" />
+      <edge source="energy" target="section" id="888" weight="0.9779898524284363" />
+      <edge source="energy" target="economic" id="889" weight="0.9778876304626465" />
+      <edge source="energy" target="heat" id="890" weight="0.9776633381843567" />
+      <edge source="energy" target="migration" id="891" weight="0.9776277542114258" />
+      <edge source="energy" target="high" id="892" weight="0.9775803685188293" />
+      <edge source="energy" target="increase" id="893" weight="0.9774919748306274" />
+      <edge source="energy" target="urbanisation" id="894" weight="0.9773681163787842" />
+      <edge source="energy" target="risk" id="895" weight="0.9773194193840027" />
+      <edge source="energy" target="et" id="896" weight="0.9772830009460449" />
+      <edge source="energy" target="vulnerability" id="897" weight="0.977229118347168" />
+      <edge source="energy" target="adaptation" id="898" weight="0.9771500825881958" />
+      <edge source="energy" target="people" id="899" weight="0.9768224358558655" />
+      <edge source="governance" target="al" id="900" weight="0.9893766045570374" />
+      <edge source="governance" target="urbanisation" id="901" weight="0.9891854524612427" />
+      <edge source="governance" target="vulnerability" id="902" weight="0.9887875318527222" />
+      <edge source="governance" target="urban" id="903" weight="0.9884338974952698" />
+      <edge source="governance" target="settlements" id="904" weight="0.9883049130439758" />
+      <edge source="governance" target="et" id="905" weight="0.9882153868675232" />
+      <edge source="governance" target="also" id="906" weight="0.98820561170578" />
+      <edge source="governance" target="water" id="907" weight="0.9881424903869629" />
+      <edge source="governance" target="risks" id="908" weight="0.9881038069725037" />
+      <edge source="governance" target="global" id="909" weight="0.9878295063972473" />
+      <edge source="governance" target="people" id="910" weight="0.9877145886421204" />
+      <edge source="governance" target="high" id="911" weight="0.9876644611358643" />
+      <edge source="governance" target="including" id="912" weight="0.9875606894493103" />
+      <edge source="governance" target="social" id="913" weight="0.9874457716941833" />
+      <edge source="governance" target="risk" id="914" weight="0.9874417185783386" />
+      <edge source="governance" target="cities" id="915" weight="0.9871221780776978" />
+      <edge source="governance" target="increase" id="916" weight="0.9870980978012085" />
+      <edge source="governance" target="confidence" id="917" weight="0.9868054389953613" />
+      <edge source="governance" target="example" id="918" weight="0.9867813587188721" />
+      <edge source="governance" target="box" id="919" weight="0.9866520762443542" />
+      <edge source="governance" target="heat" id="920" weight="0.9866520166397095" />
+      <edge source="governance" target="areas" id="921" weight="0.986613929271698" />
+      <edge source="governance" target="infrastructure" id="922" weight="0.9865542054176331" />
+      <edge source="governance" target="development" id="923" weight="0.9864568710327148" />
+      <edge source="governance" target="sustainable" id="924" weight="0.9862644672393799" />
+      <edge source="coastal" target="increase" id="925" weight="0.9757681488990784" />
+      <edge source="coastal" target="urban" id="926" weight="0.9756962060928345" />
+      <edge source="coastal" target="settlements" id="927" weight="0.9756326079368591" />
+      <edge source="coastal" target="box" id="928" weight="0.9753414988517761" />
+      <edge source="coastal" target="particularly" id="929" weight="0.9751994013786316" />
+      <edge source="coastal" target="heat" id="930" weight="0.9751807451248169" />
+      <edge source="coastal" target="cities" id="931" weight="0.9750409722328186" />
+      <edge source="coastal" target="al" id="932" weight="0.9750402569770813" />
+      <edge source="coastal" target="also" id="933" weight="0.9749246835708618" />
+      <edge source="coastal" target="areas" id="934" weight="0.9748033881187439" />
+      <edge source="coastal" target="people" id="935" weight="0.9746300578117371" />
+      <edge source="coastal" target="global" id="936" weight="0.9742056727409363" />
+      <edge source="coastal" target="infrastructure" id="937" weight="0.9741208553314209" />
+      <edge source="coastal" target="vulnerability" id="938" weight="0.9740986824035645" />
+      <edge source="coastal" target="migration" id="939" weight="0.9739093780517578" />
+      <edge source="coastal" target="et" id="940" weight="0.9737895727157593" />
+      <edge source="coastal" target="section" id="941" weight="0.9735991954803467" />
+      <edge source="coastal" target="evidence" id="942" weight="0.9734623432159424" />
+      <edge source="coastal" target="chapter" id="943" weight="0.9733831286430359" />
+      <edge source="coastal" target="including" id="944" weight="0.9733773469924927" />
+      <edge source="coastal" target="high" id="945" weight="0.9730179309844971" />
+      <edge source="coastal" target="future" id="946" weight="0.9727270007133484" />
+      <edge source="coastal" target="risks" id="947" weight="0.9726411700248718" />
+      <edge source="coastal" target="social" id="948" weight="0.9726307392120361" />
+      <edge source="coastal" target="urbanisation" id="949" weight="0.9724600911140442" />
+      <edge source="environmental" target="housing" id="950" weight="0.8967207670211792" />
+      <edge source="environmental" target="risk" id="951" weight="0.8963235020637512" />
+      <edge source="environmental" target="governments" id="952" weight="0.896128237247467" />
+      <edge source="environmental" target="regions" id="953" weight="0.8955761194229126" />
+      <edge source="environmental" target="climate" id="954" weight="0.8951800465583801" />
+      <edge source="environmental" target="chapter" id="955" weight="0.8940203189849854" />
+      <edge source="environmental" target="impacts" id="956" weight="0.8935954570770264" />
+      <edge source="environmental" target="health" id="957" weight="0.8935950994491577" />
+      <edge source="environmental" target="including" id="958" weight="0.8934599161148071" />
+      <edge source="environmental" target="evidence" id="959" weight="0.8932039141654968" />
+      <edge source="environmental" target="city" id="960" weight="0.8928824663162231" />
+      <edge source="environmental" target="exposure" id="961" weight="0.8927196860313416" />
+      <edge source="environmental" target="cities" id="962" weight="0.8927186131477356" />
+      <edge source="environmental" target="al" id="963" weight="0.8925508856773376" />
+      <edge source="environmental" target="population" id="964" weight="0.892281174659729" />
+      <edge source="environmental" target="key" id="965" weight="0.8921741247177124" />
+      <edge source="environmental" target="likely" id="966" weight="0.8921220898628235" />
+      <edge source="environmental" target="global" id="967" weight="0.8919382095336914" />
+      <edge source="environmental" target="box" id="968" weight="0.8911734819412231" />
+      <edge source="environmental" target="services" id="969" weight="0.8906984329223633" />
+      <edge source="environmental" target="landslides" id="970" weight="0.8906723856925964" />
+      <edge source="environmental" target="infrastructure" id="971" weight="0.8906393647193909" />
+      <edge source="environmental" target="may" id="972" weight="0.8903952836990356" />
+      <edge source="environmental" target="areas" id="973" weight="0.8903613686561584" />
+      <edge source="environmental" target="settlements" id="974" weight="0.8903056383132935" />
+      <edge source="may" target="al" id="975" weight="0.994457483291626" />
+      <edge source="may" target="global" id="976" weight="0.9942852854728699" />
+      <edge source="may" target="settlements" id="977" weight="0.9942623376846313" />
+      <edge source="may" target="risks" id="978" weight="0.9942141175270081" />
+      <edge source="may" target="urban" id="979" weight="0.9940756559371948" />
+      <edge source="may" target="infrastructure" id="980" weight="0.9938353300094604" />
+      <edge source="may" target="including" id="981" weight="0.9935318827629089" />
+      <edge source="may" target="et" id="982" weight="0.9934959411621094" />
+      <edge source="may" target="areas" id="983" weight="0.993204653263092" />
+      <edge source="may" target="also" id="984" weight="0.9931970834732056" />
+      <edge source="may" target="cities" id="985" weight="0.9931555986404419" />
+      <edge source="may" target="urbanisation" id="986" weight="0.9930188059806824" />
+      <edge source="may" target="people" id="987" weight="0.9929410815238953" />
+      <edge source="may" target="example" id="988" weight="0.9928971529006958" />
+      <edge source="may" target="risk" id="989" weight="0.992752730846405" />
+      <edge source="may" target="key" id="990" weight="0.992611289024353" />
+      <edge source="may" target="high" id="991" weight="0.9925274848937988" />
+      <edge source="may" target="vulnerability" id="992" weight="0.9925086498260498" />
+      <edge source="may" target="climate" id="993" weight="0.9923983216285706" />
+      <edge source="may" target="migration" id="994" weight="0.9923209547996521" />
+      <edge source="may" target="heat" id="995" weight="0.9922832250595093" />
+      <edge source="may" target="section" id="996" weight="0.9921694993972778" />
+      <edge source="may" target="confidence" id="997" weight="0.9920642375946045" />
+      <edge source="may" target="evidence" id="998" weight="0.992057204246521" />
+      <edge source="may" target="chapter" id="999" weight="0.991973876953125" />
+      <edge source="green" target="areas" id="1000" weight="0.9112541675567627" />
+      <edge source="green" target="also" id="1001" weight="0.9106442332267761" />
+      <edge source="green" target="urban" id="1002" weight="0.9098808765411377" />
+      <edge source="green" target="urbanisation" id="1003" weight="0.9096255302429199" />
+      <edge source="green" target="c" id="1004" weight="0.9094674587249756" />
+      <edge source="green" target="eg" id="1005" weight="0.9093618392944336" />
+      <edge source="green" target="confidence" id="1006" weight="0.9092980623245239" />
+      <edge source="green" target="al" id="1007" weight="0.9091809988021851" />
+      <edge source="green" target="social" id="1008" weight="0.9089149832725525" />
+      <edge source="green" target="increased" id="1009" weight="0.9085661172866821" />
+      <edge source="green" target="nations" id="1010" weight="0.9080736637115479" />
+      <edge source="green" target="section" id="1011" weight="0.9079797267913818" />
+      <edge source="green" target="development" id="1012" weight="0.9077356457710266" />
+      <edge source="green" target="flooding" id="1013" weight="0.907688558101654" />
+      <edge source="green" target="et" id="1014" weight="0.9076428413391113" />
+      <edge source="green" target="projected" id="1015" weight="0.9074743986129761" />
+      <edge source="green" target="chapter" id="1016" weight="0.907366931438446" />
+      <edge source="green" target="million" id="1017" weight="0.9073441624641418" />
+      <edge source="green" target="particularly" id="1018" weight="0.9072580933570862" />
+      <edge source="green" target="cities" id="1019" weight="0.9071685075759888" />
+      <edge source="green" target="planning" id="1020" weight="0.9071468114852905" />
+      <edge source="green" target="risks" id="1021" weight="0.9070980548858643" />
+      <edge source="green" target="migration" id="1022" weight="0.9069281220436096" />
+      <edge source="green" target="resilience" id="1023" weight="0.9066674709320068" />
+      <edge source="green" target="settlements" id="1024" weight="0.9065651297569275" />
+      <edge source="capacity" target="al" id="1025" weight="0.9879416227340698" />
+      <edge source="capacity" target="settlements" id="1026" weight="0.9878687262535095" />
+      <edge source="capacity" target="risks" id="1027" weight="0.987798273563385" />
+      <edge source="capacity" target="likely" id="1028" weight="0.987693727016449" />
+      <edge source="capacity" target="also" id="1029" weight="0.9875405430793762" />
+      <edge source="capacity" target="confidence" id="1030" weight="0.9873098731040955" />
+      <edge source="capacity" target="urban" id="1031" weight="0.986971914768219" />
+      <edge source="capacity" target="high" id="1032" weight="0.9865773320198059" />
+      <edge source="capacity" target="et" id="1033" weight="0.9865707755088806" />
+      <edge source="capacity" target="vulnerability" id="1034" weight="0.9863804578781128" />
+      <edge source="capacity" target="global" id="1035" weight="0.9862165451049805" />
+      <edge source="capacity" target="cities" id="1036" weight="0.9861506223678589" />
+      <edge source="capacity" target="infrastructure" id="1037" weight="0.9861084818840027" />
+      <edge source="capacity" target="including" id="1038" weight="0.98594069480896" />
+      <edge source="capacity" target="climate" id="1039" weight="0.9858900904655457" />
+      <edge source="capacity" target="key" id="1040" weight="0.9858330488204956" />
+      <edge source="capacity" target="risk" id="1041" weight="0.9857998490333557" />
+      <edge source="capacity" target="section" id="1042" weight="0.9856364130973816" />
+      <edge source="capacity" target="air" id="1043" weight="0.9855850338935852" />
+      <edge source="capacity" target="heat" id="1044" weight="0.9854644536972046" />
+      <edge source="capacity" target="associated" id="1045" weight="0.9853297472000122" />
+      <edge source="capacity" target="events" id="1046" weight="0.9852238297462463" />
+      <edge source="capacity" target="areas" id="1047" weight="0.985001266002655" />
+      <edge source="capacity" target="box" id="1048" weight="0.9849278330802917" />
+      <edge source="capacity" target="example" id="1049" weight="0.9849266409873962" />
+      <edge source="communities" target="settlements" id="1050" weight="0.9916411638259888" />
+      <edge source="communities" target="urban" id="1051" weight="0.9914314150810242" />
+      <edge source="communities" target="key" id="1052" weight="0.9912652969360352" />
+      <edge source="communities" target="risks" id="1053" weight="0.9910500049591064" />
+      <edge source="communities" target="et" id="1054" weight="0.9906853437423706" />
+      <edge source="communities" target="al" id="1055" weight="0.990649938583374" />
+      <edge source="communities" target="infrastructure" id="1056" weight="0.9905366897583008" />
+      <edge source="communities" target="risk" id="1057" weight="0.990490198135376" />
+      <edge source="communities" target="areas" id="1058" weight="0.9904505014419556" />
+      <edge source="communities" target="climate" id="1059" weight="0.9901965856552124" />
+      <edge source="communities" target="cities" id="1060" weight="0.990172266960144" />
+      <edge source="communities" target="section" id="1061" weight="0.9900728464126587" />
+      <edge source="communities" target="high" id="1062" weight="0.990050196647644" />
+      <edge source="communities" target="including" id="1063" weight="0.9898977279663086" />
+      <edge source="communities" target="land" id="1064" weight="0.9894985556602478" />
+      <edge source="communities" target="urbanisation" id="1065" weight="0.9893825650215149" />
+      <edge source="communities" target="global" id="1066" weight="0.9893328547477722" />
+      <edge source="communities" target="confidence" id="1067" weight="0.9892767667770386" />
+      <edge source="communities" target="also" id="1068" weight="0.9891889691352844" />
+      <edge source="communities" target="chapter" id="1069" weight="0.9890352487564087" />
+      <edge source="communities" target="example" id="1070" weight="0.9887902736663818" />
+      <edge source="communities" target="social" id="1071" weight="0.9886460304260254" />
+      <edge source="communities" target="people" id="1072" weight="0.9884603023529053" />
+      <edge source="communities" target="heat" id="1073" weight="0.9883492588996887" />
+      <edge source="communities" target="change" id="1074" weight="0.9880222678184509" />
+      <edge source="public" target="example" id="1075" weight="0.9639542698860168" />
+      <edge source="public" target="migration" id="1076" weight="0.9636070728302002" />
+      <edge source="public" target="global" id="1077" weight="0.9630451798439026" />
+      <edge source="public" target="see" id="1078" weight="0.9626356363296509" />
+      <edge source="public" target="asia" id="1079" weight="0.9623758792877197" />
+      <edge source="public" target="chapter" id="1080" weight="0.9623480439186096" />
+      <edge source="public" target="vulnerability" id="1081" weight="0.9623363018035889" />
+      <edge source="public" target="infrastructure" id="1082" weight="0.9619739055633545" />
+      <edge source="public" target="heat" id="1083" weight="0.9619574546813965" />
+      <edge source="public" target="settlements" id="1084" weight="0.9617986083030701" />
+      <edge source="public" target="box" id="1085" weight="0.961675226688385" />
+      <edge source="public" target="may" id="1086" weight="0.9613549113273621" />
+      <edge source="public" target="also" id="1087" weight="0.9612948894500732" />
+      <edge source="public" target="risks" id="1088" weight="0.9612794518470764" />
+      <edge source="public" target="al" id="1089" weight="0.9609836935997009" />
+      <edge source="public" target="cities" id="1090" weight="0.9603894352912903" />
+      <edge source="public" target="areas" id="1091" weight="0.9602797031402588" />
+      <edge source="public" target="et" id="1092" weight="0.9600855708122253" />
+      <edge source="public" target="section" id="1093" weight="0.9600301384925842" />
+      <edge source="public" target="urban" id="1094" weight="0.9599908590316772" />
+      <edge source="public" target="impacts" id="1095" weight="0.9599475264549255" />
+      <edge source="public" target="exposure" id="1096" weight="0.9597689509391785" />
+      <edge source="public" target="future" id="1097" weight="0.9596028923988342" />
+      <edge source="public" target="likely" id="1098" weight="0.9594961404800415" />
+      <edge source="public" target="risk" id="1099" weight="0.9594465494155884" />
+      <edge source="mitigation" target="section" id="1100" weight="0.9820607900619507" />
+      <edge source="mitigation" target="box" id="1101" weight="0.9816167950630188" />
+      <edge source="mitigation" target="including" id="1102" weight="0.9815087914466858" />
+      <edge source="mitigation" target="risk" id="1103" weight="0.9813401699066162" />
+      <edge source="mitigation" target="urban" id="1104" weight="0.9813095927238464" />
+      <edge source="mitigation" target="cities" id="1105" weight="0.9810613393783569" />
+      <edge source="mitigation" target="risks" id="1106" weight="0.980793833732605" />
+      <edge source="mitigation" target="people" id="1107" weight="0.980718195438385" />
+      <edge source="mitigation" target="al" id="1108" weight="0.9805896282196045" />
+      <edge source="mitigation" target="confidence" id="1109" weight="0.9805161356925964" />
+      <edge source="mitigation" target="global" id="1110" weight="0.9804506301879883" />
+      <edge source="mitigation" target="evidence" id="1111" weight="0.9803035855293274" />
+      <edge source="mitigation" target="settlements" id="1112" weight="0.9800785779953003" />
+      <edge source="mitigation" target="et" id="1113" weight="0.9800148010253906" />
+      <edge source="mitigation" target="high" id="1114" weight="0.9798401594161987" />
+      <edge source="mitigation" target="likely" id="1115" weight="0.9798222184181213" />
+      <edge source="mitigation" target="areas" id="1116" weight="0.9797655940055847" />
+      <edge source="mitigation" target="urbanisation" id="1117" weight="0.9797617197036743" />
+      <edge source="mitigation" target="adaptation" id="1118" weight="0.9796668887138367" />
+      <edge source="mitigation" target="increase" id="1119" weight="0.9796190857887268" />
+      <edge source="mitigation" target="also" id="1120" weight="0.9796039462089539" />
+      <edge source="mitigation" target="migration" id="1121" weight="0.9793505072593689" />
+      <edge source="mitigation" target="example" id="1122" weight="0.9791039824485779" />
+      <edge source="mitigation" target="climate" id="1123" weight="0.9790919423103333" />
+      <edge source="mitigation" target="heat" id="1124" weight="0.9786490797996521" />
+      <edge source="use" target="box" id="1125" weight="0.9776579141616821" />
+      <edge source="use" target="settlements" id="1126" weight="0.9749984741210938" />
+      <edge source="use" target="heat" id="1127" weight="0.9749696254730225" />
+      <edge source="use" target="vulnerability" id="1128" weight="0.9744490385055542" />
+      <edge source="use" target="et" id="1129" weight="0.9742773175239563" />
+      <edge source="use" target="cities" id="1130" weight="0.9741553664207458" />
+      <edge source="use" target="areas" id="1131" weight="0.9737727046012878" />
+      <edge source="use" target="also" id="1132" weight="0.9736189842224121" />
+      <edge source="use" target="section" id="1133" weight="0.9735158681869507" />
+      <edge source="use" target="confidence" id="1134" weight="0.973296046257019" />
+      <edge source="use" target="example" id="1135" weight="0.9729355573654175" />
+      <edge source="use" target="urban" id="1136" weight="0.9729058742523193" />
+      <edge source="use" target="including" id="1137" weight="0.9725064635276794" />
+      <edge source="use" target="al" id="1138" weight="0.9724894165992737" />
+      <edge source="use" target="risks" id="1139" weight="0.9724562764167786" />
+      <edge source="use" target="events" id="1140" weight="0.9722736477851868" />
+      <edge source="use" target="change" id="1141" weight="0.972261369228363" />
+      <edge source="use" target="migration" id="1142" weight="0.9721375107765198" />
+      <edge source="use" target="human" id="1143" weight="0.9719805717468262" />
+      <edge source="use" target="chapter" id="1144" weight="0.9719603061676025" />
+      <edge source="use" target="key" id="1145" weight="0.9718791842460632" />
+      <edge source="use" target="health" id="1146" weight="0.9718023538589478" />
+      <edge source="use" target="increase" id="1147" weight="0.9716880917549133" />
+      <edge source="use" target="global" id="1148" weight="0.9716731905937195" />
+      <edge source="use" target="high" id="1149" weight="0.9716469049453735" />
+      <edge source="impact" target="infrastructure" id="1150" weight="0.9454883933067322" />
+      <edge source="impact" target="may" id="1151" weight="0.9448120594024658" />
+      <edge source="impact" target="et" id="1152" weight="0.943998396396637" />
+      <edge source="impact" target="settlements" id="1153" weight="0.9436884522438049" />
+      <edge source="impact" target="cities" id="1154" weight="0.9433070421218872" />
+      <edge source="impact" target="report" id="1155" weight="0.9429565072059631" />
+      <edge source="impact" target="asia" id="1156" weight="0.942929744720459" />
+      <edge source="impact" target="al" id="1157" weight="0.942906379699707" />
+      <edge source="impact" target="migration" id="1158" weight="0.9428076148033142" />
+      <edge source="impact" target="likely" id="1159" weight="0.9426577687263489" />
+      <edge source="impact" target="vulnerability" id="1160" weight="0.9423508048057556" />
+      <edge source="impact" target="populations" id="1161" weight="0.9422516226768494" />
+      <edge source="impact" target="urban" id="1162" weight="0.942250669002533" />
+      <edge source="impact" target="key" id="1163" weight="0.9422383308410645" />
+      <edge source="impact" target="including" id="1164" weight="0.9421514272689819" />
+      <edge source="impact" target="sustainable" id="1165" weight="0.9420930743217468" />
+      <edge source="impact" target="social" id="1166" weight="0.9420894980430603" />
+      <edge source="impact" target="section" id="1167" weight="0.9420766830444336" />
+      <edge source="impact" target="risks" id="1168" weight="0.9420695304870605" />
+      <edge source="impact" target="temperature" id="1169" weight="0.942058265209198" />
+      <edge source="impact" target="global" id="1170" weight="0.9411367774009705" />
+      <edge source="impact" target="evidence" id="1171" weight="0.9410896897315979" />
+      <edge source="impact" target="climate" id="1172" weight="0.9410833716392517" />
+      <edge source="impact" target="also" id="1173" weight="0.940721333026886" />
+      <edge source="impact" target="increase" id="1174" weight="0.9406730532646179" />
+      <edge source="assessment" target="services" id="1175" weight="0.8279432654380798" />
+      <edge source="assessment" target="eg" id="1176" weight="0.824009358882904" />
+      <edge source="assessment" target="increased" id="1177" weight="0.8219256401062012" />
+      <edge source="assessment" target="economic" id="1178" weight="0.8170661926269531" />
+      <edge source="assessment" target="changes" id="1179" weight="0.8152895569801331" />
+      <edge source="assessment" target="change" id="1180" weight="0.8146728873252869" />
+      <edge source="assessment" target="temperatures" id="1181" weight="0.8144620656967163" />
+      <edge source="assessment" target="limited" id="1182" weight="0.8140432834625244" />
+      <edge source="assessment" target="sdgs" id="1183" weight="0.8139680624008179" />
+      <edge source="assessment" target="number" id="1184" weight="0.8139345645904541" />
+      <edge source="assessment" target="due" id="1185" weight="0.8137723803520203" />
+      <edge source="assessment" target="within" id="1186" weight="0.813235342502594" />
+      <edge source="assessment" target="et" id="1187" weight="0.812878429889679" />
+      <edge source="assessment" target="reduction" id="1188" weight="0.8125626444816589" />
+      <edge source="assessment" target="land" id="1189" weight="0.8123644590377808" />
+      <edge source="assessment" target="complex" id="1190" weight="0.8121925592422485" />
+      <edge source="assessment" target="global" id="1191" weight="0.8120487332344055" />
+      <edge source="assessment" target="section" id="1192" weight="0.8116381168365479" />
+      <edge source="assessment" target="planning" id="1193" weight="0.8116090893745422" />
+      <edge source="assessment" target="multiple" id="1194" weight="0.8113346695899963" />
+      <edge source="assessment" target="cities" id="1195" weight="0.8111196756362915" />
+      <edge source="assessment" target="pm" id="1196" weight="0.8107637166976929" />
+      <edge source="assessment" target="future" id="1197" weight="0.8106918931007385" />
+      <edge source="assessment" target="rural" id="1198" weight="0.810450553894043" />
+      <edge source="assessment" target="also" id="1199" weight="0.810318112373352" />
+      <edge source="community" target="climate" id="1200" weight="0.9756962060928345" />
+      <edge source="community" target="risks" id="1201" weight="0.9742078185081482" />
+      <edge source="community" target="settlements" id="1202" weight="0.9737106561660767" />
+      <edge source="community" target="section" id="1203" weight="0.9736059308052063" />
+      <edge source="community" target="may" id="1204" weight="0.9731084108352661" />
+      <edge source="community" target="change" id="1205" weight="0.9725991487503052" />
+      <edge source="community" target="et" id="1206" weight="0.9715412259101868" />
+      <edge source="community" target="urban" id="1207" weight="0.9713120460510254" />
+      <edge source="community" target="risk" id="1208" weight="0.9712127447128296" />
+      <edge source="community" target="al" id="1209" weight="0.9711576700210571" />
+      <edge source="community" target="areas" id="1210" weight="0.9710531234741211" />
+      <edge source="community" target="example" id="1211" weight="0.9709530472755432" />
+      <edge source="community" target="global" id="1212" weight="0.9708740711212158" />
+      <edge source="community" target="report" id="1213" weight="0.9708291292190552" />
+      <edge source="community" target="heat" id="1214" weight="0.9707925915718079" />
+      <edge source="community" target="high" id="1215" weight="0.9707903265953064" />
+      <edge source="community" target="migration" id="1216" weight="0.9706236124038696" />
+      <edge source="community" target="populations" id="1217" weight="0.9702134132385254" />
+      <edge source="community" target="key" id="1218" weight="0.9700148105621338" />
+      <edge source="community" target="agreement" id="1219" weight="0.9698706865310669" />
+      <edge source="community" target="also" id="1220" weight="0.9698517322540283" />
+      <edge source="community" target="including" id="1221" weight="0.969792366027832" />
+      <edge source="community" target="associated" id="1222" weight="0.9697788953781128" />
+      <edge source="community" target="adaptation" id="1223" weight="0.9697445631027222" />
+      <edge source="community" target="social" id="1224" weight="0.9697034955024719" />
+      <edge source="informal" target="areas" id="1225" weight="0.9936549663543701" />
+      <edge source="informal" target="urban" id="1226" weight="0.993208646774292" />
+      <edge source="informal" target="settlements" id="1227" weight="0.9929249286651611" />
+      <edge source="informal" target="also" id="1228" weight="0.9927442073822021" />
+      <edge source="informal" target="al" id="1229" weight="0.9926735758781433" />
+      <edge source="informal" target="cities" id="1230" weight="0.9924207925796509" />
+      <edge source="informal" target="infrastructure" id="1231" weight="0.9924048781394958" />
+      <edge source="informal" target="migration" id="1232" weight="0.9919986128807068" />
+      <edge source="informal" target="including" id="1233" weight="0.9918555617332458" />
+      <edge source="informal" target="section" id="1234" weight="0.9918329119682312" />
+      <edge source="informal" target="heat" id="1235" weight="0.9917674660682678" />
+      <edge source="informal" target="risks" id="1236" weight="0.9917512536048889" />
+      <edge source="informal" target="people" id="1237" weight="0.9915639162063599" />
+      <edge source="informal" target="et" id="1238" weight="0.991519033908844" />
+      <edge source="informal" target="climate" id="1239" weight="0.9915139675140381" />
+      <edge source="informal" target="global" id="1240" weight="0.9914627075195312" />
+      <edge source="informal" target="land" id="1241" weight="0.9913385510444641" />
+      <edge source="informal" target="risk" id="1242" weight="0.99112468957901" />
+      <edge source="informal" target="high" id="1243" weight="0.9911235570907593" />
+      <edge source="informal" target="urbanisation" id="1244" weight="0.9909694790840149" />
+      <edge source="informal" target="example" id="1245" weight="0.9907635450363159" />
+      <edge source="informal" target="population" id="1246" weight="0.9906333088874817" />
+      <edge source="informal" target="impacts" id="1247" weight="0.9905990958213806" />
+      <edge source="informal" target="increase" id="1248" weight="0.9905470609664917" />
+      <edge source="informal" target="evidence" id="1249" weight="0.9904707074165344" />
+    </edges>
+  </graph>
+</gexf>
